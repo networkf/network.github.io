@@ -19,7 +19,7 @@ Network is the brain computer network to power virtual dreams and home of neural
 <a href="https://network.com.de/d/21" target="_blank">network.com.de/d/21</a>
 
 ## Capital
-<a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token Contract</a>
+<a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
 
 
 ## Community
@@ -31,7 +31,7 @@ Network is the brain computer network to power virtual dreams and home of neural
 <br>
 
 ## Forum
-<a href="https://network.com.de" target="_blank">Network Research Forum</a>
+<a href="https://network.com.de" target="_blank">Network Research</a>
 <br>
 
 ## Updates
