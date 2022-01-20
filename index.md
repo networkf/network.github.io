@@ -11,7 +11,7 @@ Welcome to the network. network.foundation is your portal into the world of Netw
 
 ## What is Network?
 
-Network is the brain computer network to power virtual dreams and home of neural interface technology to experience a new state of mind. Network's mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, to explore the nature of their mind and to find liberty to dream freely.
+Network is the brain computer network to power virtual dreams and home of neural interface technology to experience a new state of mind. Network’s mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, explore the nature of their mind and find liberty to dream freely.
 
 ## Whitepaper
 
