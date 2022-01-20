@@ -39,6 +39,12 @@ Network is the brain computer network to power virtual dreams and home of neural
 <br>
 <a href="https://github.com/networknx" target="_blank">Github</a>
 
+## Embassy
+
+<a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
+<br>
+<a href="https://embassy.network.foundation/passport" target="_blank">Network Passport</a>
+<br>
 
 
 
