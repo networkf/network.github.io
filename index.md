@@ -16,20 +16,20 @@ Network is the brain computer network to power virtual dreams and home of neural
 
 ## Whitepaper
 
-Available at <a href="https://networkn.org/network" target="_blank">networkn.org/network<a>
+Available at <a href="https://networkn.org/network" target="_blank">networkn.org/network<a></br>
 Other formats available at <a href="https://network.com.de/d/21" target="_blank">network.com.de/d/21<a>
 
 ## Community
 
 Feel free to join our community through different channels which are all connected with each other
 
-<a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">https://t.me/+TU1rMRNZ1MIYLxBF<a>
-<a href="https://discord.gg/3yzhyGMNnw" target="_blank">https://discord.gg/3yzhyGMNnw<a>
+<a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">https://t.me/+TU1rMRNZ1MIYLxBF<a></br>
+<a href="https://discord.gg/3yzhyGMNnw" target="_blank">https://discord.gg/3yzhyGMNnw<a></br>
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org<a>
 
 ## Content
 
-<a href="https://network.medium.com" target="_blank">https://network.medium.com<a>
+<a href="https://network.medium.com" target="_blank">https://network.medium.com<a></br>
 <a href="https://network.substack.com" target="_blank">https://network.substack.com<a>
 
 
