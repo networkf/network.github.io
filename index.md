@@ -7,11 +7,11 @@ layout: default
 ---
 ## Network
 
-Welcome to the network. network.foundation is your portal into the world of Network. This is a directory from which you can explore everyting related to the network.
+Welcome to the network. This is your portal into the world of Network. It is a directory from which you can explore everyting related to the network.
 
 ## What is Network?
 
-Network is the brain computer network to power virtual dreams and home of neural interface technology to experience novel states of mind. Network’s mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, explore the nature of their mind and find liberty to dream freely.
+Network is the brain computer network to power virtual dreams and foundation of neural interface technology to experience novel states of mind. Network's mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, explore the nature of their mind and find liberty to dream freely.
 
 ## Whitepaper
 <a href="https://networkn.org/network" target="_blank">networkn.org/network</a>
@@ -44,6 +44,7 @@ Network is the brain computer network to power virtual dreams and home of neural
 
 ## Development
 <a href="https://github.com/networknx" target="_blank">Github</a>
+<a href="https://gitlab.com/networkn" target="_blank">Gitlab</a>
 
 ## Roadmap
 <a href="https://github.com/networknx/roadmap/projects/1" target="_blank">Network Roadmap</a>
