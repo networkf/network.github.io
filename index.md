@@ -1,5 +1,9 @@
 ---
 layout: default
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
 ---
 ## Network
 
@@ -12,7 +16,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 ## Whitepaper
 <a href="https://networkn.org/network" target="_blank">Official address of whitepaper</a>
 <br>
-<a href="https://network.com.de/d/21" target="_blank">Whitepaper available in different formats</a>
+<a href="https://network.com.de/d/21" target="_blank">Whitepaper in various formats</a>
 
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
