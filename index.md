@@ -61,6 +61,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 ## Wallet
 <a href="https://embassy.network.foundation/wallet" target="_blank">Network Wallet</a>
 
-
+## Fund
+<a href="https://network.fund" target="_blank">Network Fund</a>
 
 
