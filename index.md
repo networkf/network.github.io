@@ -13,14 +13,17 @@ Welcome to the network. This is your portal into the world of Network. It is a d
 
 Network is the brain computer network to power virtual dreams and foundation of neural interface technology to experience novel states of mind. Network's mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, explore the nature of their mind and find liberty to dream freely.
 
+
 ## Whitepaper
 <a href="https://networkn.org/network" target="_blank">Official address</a>
 <br>
 <a href="https://network.com.de/d/21" target="_blank">Various formats</a>
 
+## Protocol
+<a href="https://networkn.org" target="_blank">Network Protocol</a>
+
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
-
 
 ## Community
 <a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
@@ -30,7 +33,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
 
-## Forum
+## Research
 <a href="https://network.com.de" target="_blank">Network Research</a>
 <br>
 
@@ -41,10 +44,9 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
 
-
 ## Development
 <a href="https://github.com/networknx" target="_blank">Github</a>
-<br>
+<dbr>
 <a href="https://gitlab.com/networkn" target="_blank">Gitlab</a>
 
 ## Roadmap
@@ -55,6 +57,9 @@ Network is the brain computer network to power virtual dreams and foundation of 
 
 ## Passport
 <a href="https://embassy.network.foundation/passport" target="_blank">Network Passport</a>
+
+## Wallet
+<a href="https://embassy.network.foundation/wallet" target="_blank">Network Wallet</a>
 
 
 
