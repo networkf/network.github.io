@@ -68,7 +68,11 @@ Proof of Network (coming soon)
 
 ## Entities
 Network Foundation
+<br>
 Network Limited
+<br>
 Network Inc
+<br>
 Network Dao
+<br>
 
