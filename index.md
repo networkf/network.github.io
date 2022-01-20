@@ -20,6 +20,8 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://network.com.de/d/21" target="_blank">Various formats</a>
 
 ## Protocol
+<a href="https://networkn.org" target="_blank">Network</a>
+<br>
 <a href="https://protocol.networkn.org" target="_blank">Network Protocol</a>
 
 ## Capital
