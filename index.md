@@ -34,4 +34,9 @@ Feel free to join our community through different channels which are all connect
 <br>
 <a href="https://network.substack.com" target="_blank">network.substack.com</a>
 
+## Research Forum
+
+<a href="https://network.com.de" target="_blank">network.com.de</a>
+
+
 
