@@ -11,7 +11,7 @@ Welcome to the network. network.foundation is your portal into the world of Netw
 
 ## What is Network?
 
-Network is the brain computer network to power virtual dreams and home of neural interface technology to experience a new state of mind. Network’s mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, explore the nature of their mind and find liberty to dream freely.
+Network is the brain computer network to power virtual dreams and home of neural interface technology to experience novel states of mind. Network’s mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, explore the nature of their mind and find liberty to dream freely.
 
 ## Whitepaper
 <a href="https://networkn.org/network" target="_blank">networkn.org/network</a>
@@ -23,13 +23,15 @@ Network is the brain computer network to power virtual dreams and home of neural
 
 
 ## Community
-<a href="https://network.com.de" target="_blank">Forum</a>
-<br>
 <a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
 <br>
 <a href="https://discord.gg/3yzhyGMNnw" target="_blank">Discord</a>
 <br>
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
+<br>
+
+## Forum
+<a href="https://network.com.de" target="_blank">Network Research Forum</a>
 <br>
 
 ## Updates
