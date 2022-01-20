@@ -22,17 +22,17 @@ Other formats available at <a href="https://network.com.de/d/21" target="_blank"
 ## Community
 
 Feel free to join our community through different channels which are all connected with each other
-<a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">t.me/+TU1rMRNZ1MIYLxBF</a>
+<a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
 <br>
-<a href="https://discord.gg/3yzhyGMNnw" target="_blank">discord.gg/3yzhyGMNnw</a>
+<a href="https://discord.gg/3yzhyGMNnw" target="_blank">Discord</a>
 <br>
-<a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org</a>
+<a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 
-## Content
+## Contents
 
-<a href="https://network.medium.com" target="_blank">network.medium.com</a>
+<a href="https://network.medium.com" target="_blank">Medium</a>
 <br>
-<a href="https://network.substack.com" target="_blank">network.substack.com</a>
+<a href="https://network.substack.com" target="_blank">Substack</a>
 
 ## Research Forum
 
