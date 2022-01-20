@@ -24,6 +24,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
+<br>
 Proof of Network (coming soon)
 
 ## Community
