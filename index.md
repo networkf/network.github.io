@@ -33,6 +33,8 @@ Other formats available at <a href="https://network.com.de/d/21" target="_blank"
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
 <br>
+<a href="https://github.com/networknx" target="_blank">Github</a>
+<br>
 <a href="https://network.com.de" target="_blank">network.com.de</a>
 
 
