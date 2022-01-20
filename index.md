@@ -46,9 +46,11 @@ Network is the brain computer network to power virtual dreams and home of neural
 ## Embassy
 
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
-<br>
+
+## Passport
+
 <a href="https://embassy.network.foundation/passport" target="_blank">Network Passport</a>
-<br>
+
 
 
 
