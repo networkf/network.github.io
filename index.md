@@ -20,10 +20,11 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://network.com.de/d/21" target="_blank">Various formats</a>
 
 ## Protocol
-<a href="https://networkn.org" target="_blank">Network Protocol</a>
+<a href="https://protocol.networkn.org" target="_blank">Network Protocol</a>
 
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
+Proof of Network (coming soon)
 
 ## Community
 <a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
@@ -64,4 +65,9 @@ Network is the brain computer network to power virtual dreams and foundation of 
 ## Fund
 <a href="https://network.fund" target="_blank">Network Fund</a>
 
+## Entities
+Network Foundation
+Network Limited
+Network Inc
+Network Dao
 
