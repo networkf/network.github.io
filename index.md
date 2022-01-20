@@ -14,9 +14,9 @@ Welcome to the network. This is your portal into the world of Network. It is a d
 Network is the brain computer network to power virtual dreams and foundation of neural interface technology to experience novel states of mind. Network's mission is to accelerate the advent of virtual worlds and create an alternative model for self-governance. We are building tools to empower individuals to break free from infinite mental loops, explore the nature of their mind and find liberty to dream freely.
 
 ## Whitepaper
-<a href="https://networkn.org/network" target="_blank">networkn.org/network</a>
+<a href="https://networkn.org/network" target="_blank">Official address of whitepaper</a>
 <br>
-<a href="https://network.com.de/d/21" target="_blank">network.com.de/d/21</a>
+<a href="https://network.com.de/d/21" target="_blank">Whitepaper available in different formats</a>
 
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
@@ -44,6 +44,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 
 ## Development
 <a href="https://github.com/networknx" target="_blank">Github</a>
+<br>
 <a href="https://gitlab.com/networkn" target="_blank">Gitlab</a>
 
 ## Roadmap
