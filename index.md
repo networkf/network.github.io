@@ -7,7 +7,7 @@ layout: default
 ---
 ## Network
 
-Welcome to the network. This is your portal into the world of Network. It is a directory from which you can explore everyting related to the network.
+Welcome to the network. This is your portal into the world of Network. It is a directory from which you can explore everything related to the network.
 
 ## What is Network?
 
