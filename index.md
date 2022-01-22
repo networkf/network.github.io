@@ -15,7 +15,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 
 
 ## Whitepaper
-<a href="https://network.foundation/network" target="_blank">Official address</a>
+<a href="https://network.foundation/network.pdf" target="_blank">Official address</a>
 <br>
 <a href="https://network.com.de/d/21" target="_blank">Various formats</a>
 
