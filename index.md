@@ -57,7 +57,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <br>
 <a href="https://gitlab.com/networkn" target="_blank">Gitlab</a>
 
-## Product
+## Products
 <a href="https://networkincept.com" target="_blank">Network Incept</a>
 
 ## Roadmap
