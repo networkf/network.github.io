@@ -18,6 +18,8 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://network.foundation/network.pdf" target="_blank">Official address</a>
 <br>
 <a href="https://network.com.de/d/21" target="_blank">Various formats</a>
+<br>
+<a href="https://app.ardrive.io/#/file/23d9e668-d48d-4a38-bce8-30b064001668/view" target="_blank">Proof of publication on Arweave</a>
 
 ## Protocol
 <a href="https://networkn.org" target="_blank">Network</a>
