@@ -42,6 +42,8 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <br>
 
 ## Updates
+<a href="https://blog.network.foundation" target="_blank">Network Blog</a>
+<br>
 <a href="https://twitter.com/networkfdn" target="_blank">Twitter</a>
 <br>
 <a href="https://network.medium.com" target="_blank">Medium</a>
