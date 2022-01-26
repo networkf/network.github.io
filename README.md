@@ -1,3 +1,3 @@
 Hello world
 
-Welcome to the network.
+Welcome to the network!
