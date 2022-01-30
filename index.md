@@ -24,7 +24,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 ## Protocol
 <a href="https://networkn.org" target="_blank">Network</a>
 <br>
-<a href="https://protocol.networkn.org" target="_blank">Network Protocol</a>
+Network Protocol
 
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
@@ -67,13 +67,17 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
 
 ## Passport
-<a href="https://embassy.network.foundation/passport" target="_blank">Network Passport</a>
+<a href="https://passport.network.foundation" target="_blank">Network Passport</a>
 
 ## Wallet
-<a href="https://embassy.network.foundation/wallet" target="_blank">Network Wallet</a>
+<a href="https://wallet.network.foundation" target="_blank">Network Wallet</a>
 
 ## Fund
 <a href="https://network.fund" target="_blank">Network Fund</a>
+
+## History
+<a href="https://history.network.foundation" target="_blank">Network History</a>
+
 
 ## Entities
 Network Foundation
