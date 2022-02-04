@@ -34,7 +34,7 @@ Network Protocol
 ## Community
 <a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
 <br>
-<a href="https://discord.gg/3yzhyGMNnw" target="_blank">Discord</a>
+<a href="https://discord.gg/sCtK6YK" target="_blank">Discord</a>
 <br>
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
