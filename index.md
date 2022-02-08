@@ -29,7 +29,10 @@ Network Protocol
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
 <br>
-<a href="https://github.com/networkf/n/projects/1" target="_blank">Proof of Network</a>
+<a href="https://app.skiff.org/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
+<br>
+<a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y" target="_blank">Network Tracker</a>
+
 
 ## Community
 <a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
