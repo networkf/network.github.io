@@ -39,7 +39,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 ## Deck
 <a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
 <br>
-<a href="https://networkincept.com](https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
+<a href="https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
 
 ## Bulletin
 <a href="https://network.com.de" target="_blank">Network Research</a>
@@ -53,7 +53,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
 <br>
-<a href="https://github.com/networkf](https://github.com/network-foundation" target="_blank">Github</a>
+<a href="https://github.com/network-foundation" target="_blank">Github</a>
 
 ## Embassy
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
