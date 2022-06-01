@@ -26,7 +26,7 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y" target="_blank">Network Tracker</a>
 <br>
-<a href="https://app.skiff.org/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
+<a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
 
 ## Community
 <a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
@@ -36,15 +36,11 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
 
+
 ## Deck
 <a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
 <br>
 <a href="https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
-
-## Bulletin
-<a href="https://network.com.de" target="_blank">Network Research</a>
-<br>
-<a href="https://github.com/networkf/roadmap/projects/1" target="_blank">Network Roadmap</a>
 
 ## Updates
 <a href="https://twitter.com/networkfdn" target="_blank">Twitter</a>
@@ -52,6 +48,12 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://network.medium.com" target="_blank">Medium</a>
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
+
+## Research
+<a href="https://network.com.de" target="_blank">Network Research</a>
+
+## Development
+<a href="https://github.com/networkf/roadmap/projects/1" target="_blank">Network Roadmap</a>
 <br>
 <a href="https://github.com/network-foundation" target="_blank">Github</a>
 
