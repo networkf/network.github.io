@@ -21,18 +21,12 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <br>
 <a href="https://app.ardrive.io/#/file/23d9e668-d48d-4a38-bce8-30b064001668/view" target="_blank">Proof of publication</a>
 
-## Protocol
-<a href="https://networkn.org" target="_blank">Network</a>
-<br>
-Network Protocol
-
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y" target="_blank">Network Tracker</a>
 <br>
 <a href="https://app.skiff.org/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
-
 
 ## Community
 <a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
@@ -41,6 +35,11 @@ Network Protocol
 <br>
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
+
+## Deck
+<a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
+<br>
+<a href="https://networkincept.com](https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
 
 ## Bulletin
 <a href="https://network.com.de" target="_blank">Network Research</a>
@@ -53,28 +52,20 @@ Network Protocol
 <a href="https://network.medium.com" target="_blank">Medium</a>
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
-
-## Development
-<a href="https://github.com/networkf](https://github.com/network-foundation" target="_blank">Github</a>
-
-## Deck
-<a href="https://networkincept.com](https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
 <br>
-<a href="https://networkincept.com](https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
+<a href="https://github.com/networkf](https://github.com/network-foundation" target="_blank">Github</a>
 
 ## Embassy
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
 <br>
 <a href="https://passport.network.foundation" target="_blank">Network Passport</a>
-
-## Wallet
+<br>
 <a href="https://wallet.network.foundation" target="_blank">Network Wallet</a>
+<br>
+<a href="https://history.network.foundation" target="_blank">Network History</a>
 
 ## Fund
 <a href="https://network.fund" target="_blank">Network Fund</a>
-
-## History
-<a href="https://history.network.foundation" target="_blank">Network History</a>
 
 ## Entities
 Network Foundation
