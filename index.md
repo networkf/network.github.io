@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-## network foundation
+## Network Foundation
 
 Welcome to the network! This is your portal into the world of Network. It is a directory from which you can explore everything related to the network.
 
