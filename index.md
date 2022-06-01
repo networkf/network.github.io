@@ -42,9 +42,10 @@ Network Protocol
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
 
-## Research
+## Bulletin
 <a href="https://network.com.de" target="_blank">Network Research</a>
 <br>
+<a href="https://github.com/networkf/roadmap/projects/1" target="_blank">Network Roadmap</a>
 
 ## Updates
 <a href="https://twitter.com/networkfdn" target="_blank">Twitter</a>
@@ -54,20 +55,16 @@ Network Protocol
 <a href="https://network.substack.com" target="_blank">Substack</a>
 
 ## Development
-<a href="https://github.com/networkf" target="_blank">Github</a>
+<a href="https://github.com/networkf](https://github.com/network-foundation" target="_blank">Github</a>
+
+## Deck
+<a href="https://networkincept.com](https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
 <br>
-<a href="https://gitlab.com/networkn" target="_blank">Gitlab</a>
-
-## Products
-<a href="https://networkincept.com" target="_blank">Network Incept</a>
-
-## Roadmap
-<a href="https://github.com/networkf/roadmap/projects/1" target="_blank">Network Roadmap</a>
+<a href="https://networkincept.com](https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
 
 ## Embassy
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
-
-## Passport
+<br>
 <a href="https://passport.network.foundation" target="_blank">Network Passport</a>
 
 ## Wallet
@@ -78,7 +75,6 @@ Network Protocol
 
 ## History
 <a href="https://history.network.foundation" target="_blank">Network History</a>
-
 
 ## Entities
 Network Foundation
