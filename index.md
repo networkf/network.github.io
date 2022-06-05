@@ -48,6 +48,8 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <a href="https://network.medium.com" target="_blank">Medium</a>
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
+<br>
+<a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">YouTube</a>
 
 ## Research
 <a href="https://network.com.de" target="_blank">Network Research</a>
