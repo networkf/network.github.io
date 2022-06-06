@@ -49,6 +49,8 @@ Network is the brain computer network to power virtual dreams and foundation of 
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
 <br>
+<a href="https://reddit.com/r/networkfoundation" target="_blank">Reddit</a>
+<br>
 <a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">YouTube</a>
 <br>
 <a href="https://anchor.fm/networkfoundation" target="_blank">Podcast</a>
