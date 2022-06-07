@@ -11,7 +11,7 @@ Welcome to the network! This is your portal into the world of Network. It is a d
 
 ## What is Network?
 
-Network is the brain computer network to power virtual dreams and decentralized foundation of neural interface technology. Network's mission is to accelerate the advent of the dream world and build tools for individuals to free their mind and dream with new eyes. 
+Network is the brain computer network to power virtual dreams and decentralized foundation of neural interface technology. Network's mission is to accelerate the advent of the dream world and build tools for individuals to free their mind and empower them to dream with new eyes. 
 
 
 ## Whitepaper
