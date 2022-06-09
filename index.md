@@ -48,7 +48,6 @@ Network is the brain computer network to power neural dreams and decentralized f
 <a href="https://anchor.fm/networkfund" target="_blank">Network Podcast</a>
 
 ## Contributor Central
-<br>
 <a href="https://networkfund.slack.com" target="_blank">Network Slack</a>
 
 ## Investor Relations
@@ -72,6 +71,8 @@ Network is the brain computer network to power neural dreams and decentralized f
 <a href="https://t.me/networkfdn" target="_blank">Network Foundation Twitter</a>
 <br>
 <a href="https://github.com/orgs/network-foundation/projects/1/" target="_blank">Network Foundation Roadmap</a>
+<br>
+<a href="https://networkfoundaton.slack.com" target="_blank">Network Foundation Slack</a>
 
 ## Embassy
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
