@@ -36,24 +36,25 @@ Network is the brain computer network to power neural dreams and decentralized f
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
 
-
-## Deck
-<a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
-<br>
-<a href="https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
-
 ## Updates
-<a href="https://twitter.com/networkfdn" target="_blank">Twitter</a>
+<a href="https://twitter.com/networkfund" target="_blank">Twitter</a>
 <br>
 <a href="https://network.medium.com" target="_blank">Medium</a>
 <br>
 <a href="https://network.substack.com" target="_blank">Substack</a>
 <br>
-<a href="https://reddit.com/r/networkfoundation" target="_blank">Reddit</a>
+<a href="https://reddit.com/r/networkfund" target="_blank">Reddit</a>
 <br>
 <a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">YouTube</a>
 <br>
-<a href="https://anchor.fm/networkfoundation" target="_blank">Podcast</a>
+<a href="https://t.me/networkfoundation" target="_blank">Telegram Channel</a>
+<br>
+<a href="https://anchor.fm/networkfund" target="_blank">Podcast</a>
+
+## Deck
+<a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
+<br>
+<a href="https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
 
 
 ## Research
@@ -62,7 +63,7 @@ Network is the brain computer network to power neural dreams and decentralized f
 ## Development
 <a href="https://github.com/networkf/roadmap/projects/1" target="_blank">Network Roadmap</a>
 <br>
-<a href="https://github.com/network-foundation" target="_blank">Github</a>
+<a href="https://github.com/networkfund" target="_blank">Github</a>
 
 ## Embassy
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
@@ -74,15 +75,11 @@ Network is the brain computer network to power neural dreams and decentralized f
 <a href="https://history.network.foundation" target="_blank">Network History</a>
 
 ## Fund
-<a href="https://network.fund" target="_blank">Network Fund</a>
 
 ## Entities
 Network Foundation
 <br>
-Network Limited
-<br>
 Network Inc
 <br>
-Network Fund
+Network Limited
 <br>
-
