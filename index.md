@@ -37,33 +37,43 @@ Network is the brain computer network to power neural dreams and decentralized f
 <br>
 
 ## Updates
-<a href="https://twitter.com/networkfund" target="_blank">Twitter</a>
+<a href="https://twitter.com/networkfund" target="_blank">Network Twitter</a>
 <br>
-<a href="https://network.medium.com" target="_blank">Medium</a>
+<a href="https://network.medium.com" target="_blank">Network Medium</a>
 <br>
-<a href="https://network.substack.com" target="_blank">Substack</a>
+<a href="https://network.substack.com" target="_blank">Network Substack</a>
 <br>
-<a href="https://reddit.com/r/networkfund" target="_blank">Reddit</a>
+<a href="https://reddit.com/r/networkfund" target="_blank">Network Reddit</a>
 <br>
-<a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">YouTube</a>
+<a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">Network YouTube</a>
 <br>
-<a href="https://t.me/networkfoundation" target="_blank">Telegram Channel</a>
-<br>
-<a href="https://anchor.fm/networkfund" target="_blank">Podcast</a>
+<a href="https://anchor.fm/networkfund" target="_blank">Network Podcast</a>
 
-## Deck
+## Contributor Central
+<br>
+<a href="https://networkfund.slack.com" target="_blank">Network Slack</a>
+
+## Investor Relations
 <a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
 <br>
 <a href="https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
-
 
 ## Research
 <a href="https://network.com.de" target="_blank">Network Research</a>
 
 ## Development
-<a href="https://github.com/networkf/roadmap/projects/1" target="_blank">Network Roadmap</a>
+<a href="https://github.com/orgs/networkfund/projects/1" target="_blank">Network Roadmap</a>
 <br>
 <a href="https://github.com/networkfund" target="_blank">Github</a>
+
+## Foundation
+<a href="https://network.foundation" target="_blank">Network Foundation Website</a>
+<br>
+<a href="https://t.me/networkfoundation" target="_blank">Network Foundation Telegram Channel</a>
+<br>
+<a href="https://t.me/networkfdn" target="_blank">Network Foundation Twitter</a>
+<br>
+<a href="https://github.com/orgs/network-foundation/projects/1/" target="_blank">Network Foundation Roadmap</a>
 
 ## Embassy
 <a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
