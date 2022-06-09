@@ -15,11 +15,9 @@ Network is the brain computer network to power neural dreams and decentralized f
 
 
 ## Whitepaper
-<a href="https://network.foundation/network.pdf" target="_blank">Official address</a>
+<a href="https://network.foundation/network.pdf" target="_blank">Network Whitepaper</a>
 <br>
-<a href="https://network.com.de/d/21" target="_blank">Various formats</a>
-<br>
-<a href="https://app.ardrive.io/#/file/23d9e668-d48d-4a38-bce8-30b064001668/view" target="_blank">Proof of publication</a>
+<a href="https://network.com.de/d/21" target="_blank">Network Whitepaper - Mirrors</a>
 
 ## Capital
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
@@ -29,11 +27,11 @@ Network is the brain computer network to power neural dreams and decentralized f
 <a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
 
 ## Community
-<a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Telegram</a>
+<a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Network Telegram</a>
 <br>
-<a href="https://discord.gg/sCtK6YK" target="_blank">Discord</a>
+<a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord</a>
 <br>
-<a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
+<a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Network Matrix</a>
 <br>
 
 ## Updates
@@ -64,7 +62,7 @@ Network is the brain computer network to power neural dreams and decentralized f
 ## Development
 <a href="https://github.com/orgs/networkfund/projects/1" target="_blank">Network Roadmap</a>
 <br>
-<a href="https://github.com/networkfund" target="_blank">Github</a>
+<a href="https://github.com/networkfund" target="_blank">Network Github</a>
 
 ## Foundation
 <a href="https://network.foundation" target="_blank">Network Foundation Website</a>
