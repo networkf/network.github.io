@@ -83,8 +83,6 @@ Network is the brain computer network to power neural dreams and decentralized f
 <br>
 <a href="https://history.network.foundation" target="_blank">Network History</a>
 
-## Fund
-
 ## Entities
 Network Foundation
 <br>
