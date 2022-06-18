@@ -52,6 +52,7 @@ Network is the brain computer network to power neural dreams and decentralized f
 
 ## Contributor Central
 <a href="https://networkfund.slack.com" target="_blank">Network Slack</a>
+<a href="https://calendar.google.com/calendar/u/0?cid=dG9kcTBvdGt2YzF1MXM5dG9kOTIxN3FzdWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Network Calendar</a>
 
 ## Investor Relations
 <a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
