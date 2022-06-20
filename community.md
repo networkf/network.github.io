@@ -19,6 +19,9 @@ We are all over the world and on the web you can find us on:
 <a href="https://networkfund.eventbrite.com" target="_blank">Eventbrite</a>
 <br>
 <br>
+<a href="https://instagram.com/networkfund" target="_blank">Instagram</a>
+<br>
+<br>
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
 <br>
@@ -47,6 +50,9 @@ We are all over the world and on the web you can find us on:
 <br>
 <br>
 <a href="https://t.me/networkfund" target="_blank">Telegram Community</a>
+<br>
+<br>
+<a href="https://tiktok.com/networkfund" target="_blank">TikTok</a>
 <br>
 <br>
 <a href="https://twitter.com/networkfund" target="_blank">Twitter</a>
