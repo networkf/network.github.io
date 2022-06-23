@@ -7,12 +7,11 @@ layout: default
 ---
 ## Network Foundation
 
-Welcome to the network! This is your portal into the world of Network. It is a directory from which you can explore everything related to the network.
+Welcome to Network! This is your portal into the world of Network. It is a directory from which you can explore everything related to the network.
 
 ## What is Network?
 
-Network is the brain computer network to power neural dreams and decentralized foundation of neural interface technology. Network's mission is to accelerate the advent of the dream world and build tools for individuals to free their mind and empower them to dream with new eyes. 
-
+Network is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
 
 ## Whitepaper
 <a href="https://network.foundation/network.pdf" target="_blank">Network Whitepaper</a>
