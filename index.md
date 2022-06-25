@@ -66,7 +66,7 @@ Network is accelerating the advent of neural interface dreams by building a neur
 <a href="https://network.com.de" target="_blank">Network Research</a>
 
 ## Development
-<a href="https://github.com/orgs/networkfund/projects/1" target="_blank">Network Roadmap</a>
+<a href="https://networkfund.notion.site/bacfca824e244d118b6d4973bddb4113" target="_blank">Network Roadmap</a>
 <br>
 <a href="https://github.com/networkfund" target="_blank">Network Github</a>
 
