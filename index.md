@@ -47,10 +47,9 @@ Network is accelerating the advent of neural interface dreams by building a neur
 <br>
 <a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">Network YouTube</a>
 <br>
-<a href="https://facebook.com/groups/networkfund" target="_blank">Facebook Group</a>
+<a href="https://facebook.com/groups/networkfund" target="_blank">Network Facebook Group</a>
 <br>
 <a href="https://anchor.fm/networkfund" target="_blank">Network Podcast</a>
-
 
 ## Contributor Central
 <a href="https://networkfund.slack.com" target="_blank">Network Slack</a>
