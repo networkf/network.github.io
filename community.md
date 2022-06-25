@@ -19,6 +19,9 @@ We are all over the world and on the web you can find us on:
 <a href="https://networkfund.eventbrite.com" target="_blank">Eventbrite</a>
 <br>
 <br>
+<a href="https://facebook.com/groups/networkfund" target="_blank">Facebook Group</a>
+<br>
+<br>
 <a href="https://instagram.com/networkfund" target="_blank">Instagram</a>
 <br>
 <br>
