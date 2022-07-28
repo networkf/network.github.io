@@ -29,6 +29,8 @@ Network is accelerating the advent of neural interface dreams by building a neur
 <a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
 
 ## Community
+<a href="https://network.com.de/community" target="_blank">Network Community Directory</a>
+<br>
 <a href="https://t.me/networkfund" target="_blank">Network Telegram</a>
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord</a>
