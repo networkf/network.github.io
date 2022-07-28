@@ -16,7 +16,7 @@ Network is accelerating the advent of neural interface dreams by building a neur
 ## Whitepaper
 <a href="https://network.foundation/network.pdf" target="_blank">Network Whitepaper</a>
 <br>
-<a href="https://network.com.de/d/21" target="_blank">Network Whitepaper - Mirrors</a>
+<a href="https://network.com.de/d/21" target="_blank">Whitepaper - Mirrors</a>
 
 ## Website
 <a href="https://network.Fund" target="_blank">Network Website</a>
@@ -29,7 +29,7 @@ Network is accelerating the advent of neural interface dreams by building a neur
 <a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
 
 ## Community
-<a href="https://t.me/+TU1rMRNZ1MIYLxBF" target="_blank">Network Telegram</a>
+<a href="https://t.me/networkfund" target="_blank">Network Telegram</a>
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord</a>
 <br>
@@ -62,7 +62,7 @@ Network is accelerating the advent of neural interface dreams by building a neur
 <a href="https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
 
 ## Research
-<a href="https://network.com.de" target="_blank">Network Research</a>
+<a href="https://www.network.com.de" target="_blank">Network Research</a>
 
 ## Development
 <a href="https://networkfund.notion.site/networkfund/roadmap-00c0948c1a3e4fd0b2f6510b5d410ac8" target="_blank">Network Roadmap</a>
