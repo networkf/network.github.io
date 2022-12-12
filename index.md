@@ -30,7 +30,7 @@ A list of trackers of how our capital structure is developing.
 <br>
 A list of channels to join the community that all over the world.
 
-<a href="https://www.network.com.de">Research Directory</a>
+<a href="https://www.network.com.de">Research Forum</a>
 <br>
 A directory showing the latest industry nodes and research
 
