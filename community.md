@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-
+## Network Community
 We have many different channels. These are our primary and further below other channels to join. Our community is all over the world.
 
 ### Primary channels:
