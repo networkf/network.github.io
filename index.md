@@ -5,23 +5,23 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-## Network
-
-Welcome to Network! This is your portal into the world of Network. It is a directory from which you can explore everything related to the network.
-
-## What is Network?
-
 Network is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
 
-## Whitepaper
-<a href="https://network.foundation/network.pdf" target="_blank">Network Whitepaper</a>
+We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
+
+
+<a href="https://network.Fund" target="_blank">Community Directory</a>
 <br>
-<a href="https://network.com.de/d/21" target="_blank">Whitepaper - Mirrors</a>
+A list of channels to join the community. We are all over the world.
 
-## Website
-<a href="https://network.Fund" target="_blank">Network Website</a>
+<a href="https://network.com.de/network.pdf" target="_blank">Network Whitepaper</a>
+The whitepaper that paints the picture of our road ahead.
 
-## Capital
+<a href="https://network.fund" target="_blank">Primary Website</a>
+Our primary website.
+
+
+## Directory
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y" target="_blank">Network Tracker</a>
