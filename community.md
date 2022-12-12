@@ -5,10 +5,20 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-## Network Community
+## Community
 
-We are all over the world and on the web you can find us on:
+Primary channels:
+<br>
+<br>
+<a href="https://t.me/networkfund" target="_blank">Telegram Group</a>
+<br>
+<br>
+<a href="https://twitter.com/networkfund" target="_blank">Twitter</a>
+<br>
+<br>
 
+Other channels:
+<br>
 <br>
 <a href="https://anchor.fm/networkfund" target="_blank">Anchor Podcast</a>
 <br>
@@ -52,13 +62,7 @@ We are all over the world and on the web you can find us on:
 <a href="https://t.me/networkfoundation" target="_blank">Telegram Announcements</a>
 <br>
 <br>
-<a href="https://t.me/networkfund" target="_blank">Telegram Community</a>
-<br>
-<br>
 <a href="https://tiktok.com/networkfund" target="_blank">TikTok</a>
-<br>
-<br>
-<a href="https://twitter.com/networkfund" target="_blank">Twitter</a>
 <br>
 <br>
 <a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">YouTube Channel</a>
