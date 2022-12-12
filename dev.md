@@ -6,12 +6,28 @@ layout: default
 </head>
 ---
 ## Development
+This is a list of updates in regards to development of the network.
 
 <a href="https://networkfund.notion.site/networkfund/roadmap-00c0948c1a3e4fd0b2f6510b5d410ac8" target="_blank">Network Roadmap</a>
 <br>
+An ongoing roadmap of goals that are in development and in progress. 
+<br>
+<br>
 <a href="https://github.com/networkfund" target="_blank">Network Github</a>
 <br>
-<a href="https://networkfund.notion.site/Job-Board-1497e87749b04767b98a75094654ae79" target="_blank">Network Job Board</a>
+Developer activity.
+<br>
+<br>
+<a href="https://github.com/networkfund" target="_blank">Documentation</a>
+<br>
+Documentation to get started building on the network.
+<br>
+<br>
+<a href="https://networkfund.notion.site/Job-Board-1497e87749b04767b98a75094654ae79" target="_blank">Network Bulletin Board</a>
+<br>
+A bulletin board for job listings, opportunities and anything related.
+<br>
+<br>
 
 
 
