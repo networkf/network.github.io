@@ -6,14 +6,7 @@ layout: default
 </head>
 ---
 
-Community Directory
-A list of channels to join the community that all over the world.
-
-Network Whitepaper
-The whitepaper that paints the picture of our road ahead.
-
-Primary Website
-Our official website that previews our mission.
+We have many different channels. These are our primary and further below other channels to join. Our community is all over the world.
 
 ### Primary channels:
 <a href="https://t.me/networkfund" target="_blank">Network Telegram</a>
