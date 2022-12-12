@@ -22,6 +22,7 @@ We have many different channels. These are our primary and further below other c
 <a href="https://reddit.com/r/networkfund" target="_blank">Network Reddit</a>
 <br>
 <a href="https://forum.network.fund" target="_blank">Network Forum</a>
+<br>
 <a href="https://www.youtube.com/@networkfund" target="_blank">Network YouTube</a>
 <br>
 
@@ -34,8 +35,6 @@ We have many different channels. These are our primary and further below other c
 <a href="https://facebook.com/groups/networkfund" target="_blank">Facebook Group</a>
 <br>
 <a href="https://instagram.com/networkfund" target="_blank">Instagram</a>
-<br>
-<a href="https://forum.network.fund" target="_blank">Network Forum</a>
 <br>
 <a href="https://network.com.de" target="_blank">Network Research</a>
 <br>
