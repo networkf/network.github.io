@@ -9,10 +9,6 @@ layout: default
 
 We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
 
-<a href="https://network.Fund" target="_blank">Community Directory</a>
-<br>
-A list of channels to join the community that all over the world.
-
 <a href="https://network.com.de/network.pdf" target="_blank">Network Whitepaper</a>
 <br>
 The whitepaper that paints the picture of our road ahead.
@@ -21,52 +17,16 @@ The whitepaper that paints the picture of our road ahead.
 <br>
 Our official website that previews our mission.
 
+<a href="https://network.com.de/capital" target="_blank">Capital Directory</a>
+<br>
+A list of trackers of how our capital structure is developing.
 
-## Directory
-<a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A" target="_blank">Network Token</a>
+<a href="https://network.com.de/community" target="_blank">Community Directory</a>
 <br>
-<a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y" target="_blank">Network Tracker</a>
-<br>
-<a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
-An ongoing list of tokens distributed to those that build the network.
+A list of channels to join the community that all over the world.
 
-## Community
-<a href="https://network.com.de/community" target="_blank">Network Community Directory</a>
-<br>
-<a href="https://t.me/networkfund" target="_blank">Network Telegram</a>
-<br>
-<a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord</a>
-<br>
-<a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Network Matrix</a>
-<br>
-
-## Updates
-<a href="https://twitter.com/networkfund" target="_blank">Network Twitter</a>
-<br>
-<a href="https://network.medium.com" target="_blank">Network Medium</a>
-<br>
-<a href="https://network.substack.com" target="_blank">Network Substack</a>
-<br>
-<a href="https://reddit.com/r/networkfund" target="_blank">Network Reddit</a>
-<br>
-<a href="https://www.youtube.com/channel/UCh3Zw3sr1xPklmgjS6VYU-g" target="_blank">Network YouTube</a>
-<br>
-<a href="https://facebook.com/groups/networkfund" target="_blank">Network Facebook Group</a>
-<br>
-<a href="https://anchor.fm/networkfund" target="_blank">Network Podcast</a>
-
-## Contributor Central
-<a href="https://networkfund.slack.com" target="_blank">Network Slack</a>
-<br>
-<a href="https://calendar.google.com/calendar/u/0?cid=dG9kcTBvdGt2YzF1MXM5dG9kOTIxN3FzdWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Network Calendar</a>
-
-## Investor Relations
-<a href="https://docs.google.com/presentation/d/1zXtGiUGWyVw7KBjbBFHSF_zZsAtC8BuCwJPwdLarzZo/edit" target="_blank">Network Pitch Deck</a>
-<br>
-<a href="https://youtu.be/YKKXm36hsSk" target="_blank">Network Pitch Video</a>
-
-## Research
-<a href="https://www.network.com.de" target="_blank">Network Research</a>
+<a href="https://www.network.com.de" target="_blank">Research Directory</a>
+A directory showing the latest industry nodes and research
 
 ## Development
 <a href="https://networkfund.notion.site/networkfund/roadmap-00c0948c1a3e4fd0b2f6510b5d410ac8" target="_blank">Network Roadmap</a>
@@ -96,10 +56,3 @@ An ongoing list of tokens distributed to those that build the network.
 <br>
 <a href="https://history.network.foundation" target="_blank">Network History</a>
 
-## Entities
-Network Foundation
-<br>
-Network Inc
-<br>
-Network Limited
-<br>
