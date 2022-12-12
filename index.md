@@ -10,7 +10,7 @@ Network is accelerating the advent of neural interface dreams by building a neur
 We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
 
 
-<a href="https://www.network.com.de">Network Development</a>
+<a href="https://network.com.de/dev">Network Development</a>
 <br>
 Updates about current builds and development 
 
@@ -36,7 +36,7 @@ A directory showing the latest industry nodes and research
 
 <a href="https://www.network.com.de">Network Foundation</a>
 <br>
-A list with useful links for the Network Embassy
+A page dedicated to the network foundation
 
 <a href="https://www.network.com.de">Network Embassy</a>
 <br>
