@@ -9,16 +9,17 @@ layout: default
 
 We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
 
-
 <a href="https://network.Fund" target="_blank">Community Directory</a>
 <br>
-A list of channels to join the community. We are all over the world.
+A list of channels to join the community that all over the world.
 
 <a href="https://network.com.de/network.pdf" target="_blank">Network Whitepaper</a>
+<br>
 The whitepaper that paints the picture of our road ahead.
 
 <a href="https://network.fund" target="_blank">Primary Website</a>
-Our primary website.
+<br>
+Our official website that previews our mission.
 
 
 ## Directory
