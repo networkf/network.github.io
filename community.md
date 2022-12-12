@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 ## Community
-
+<br>
 Primary channels:
 <br>
 <br>
