@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-Network is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
+<b>Network</b> is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
 
 We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
 
@@ -27,6 +27,7 @@ Our primary website.
 <a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y" target="_blank">Network Tracker</a>
 <br>
 <a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=" target="_blank">Proof of Network</a>
+An ongoing list of tokens distributed to those that build the network.
 
 ## Community
 <a href="https://network.com.de/community" target="_blank">Network Community Directory</a>
