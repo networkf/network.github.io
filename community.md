@@ -27,26 +27,26 @@ We have many different channels. These are our primary and further below other c
 <br>
 
 ### Other channels:
-<a href="https://anchor.fm/networkfund" target="_blank">Anchor Podcast</a>
+<a href="https://anchor.fm/networkfund" target="_blank">Network Podcast</a>
 <br>
 <a href="https://calendar.google.com/calendar/u/0?cid=dG9kcTBvdGt2YzF1MXM5dG9kOTIxN3FzdWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Network Calendar</a>
-<a href="https://networkfund.eventbrite.com" target="_blank">Eventbrite</a>
 <br>
-<a href="https://facebook.com/groups/networkfund" target="_blank">Facebook Group</a>
+<a href="https://networkfund.eventbrite.com" target="_blank">Network Eventbrite</a>
 <br>
-<a href="https://instagram.com/networkfund" target="_blank">Instagram</a>
+<a href="https://facebook.com/groups/networkfund" target="_blank">Network Facebook Group</a>
+<br>
+<a href="https://instagram.com/networkfund" target="_blank">Network Instagram</a>
 <br>
 <a href="https://network.com.de" target="_blank">Network Research</a>
 <br>
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Network Matrix</a>
 <br>
-<a href="https://networkfund.slack.com" target="_blank">Slack Workspace</a>
+<a href="https://networkfund.slack.com" target="_blank">Network Slack Workspace</a>
 <br>
-<a href="https://t.me/networkfoundation" target="_blank">Telegram Announcements</a>
+<a href="https://t.me/networkfoundation" target="_blank">Network Foundation Announcements</a>
 <br>
-<a href="https://tiktok.com/networkfund" target="_blank">TikTok</a>
+<a href="https://tiktok.com/networkfund" target="_blank">Network TikTok</a>
 <br>
-<a href="https://www.youtube.com/channel/@networkfund" target="_blank">YouTube Channel</a>
 
 
 
