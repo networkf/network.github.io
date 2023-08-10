@@ -10,31 +10,35 @@ layout: default
 <br>
 Learn about Network's mission.
 
-<a href="https://network.com.de/capital">Capital</a>
+[Capital](/capital)
 <br>
 A list of trackers of how our capital structure is developing.
 
-<a href="https://network.com.de/community">Community</a>
+[Community](/community)
 <br>
 A list of channels to join the community that is distributed all over the world.
 
-<a href="https://network.com.de/core">Core</a>
+[Core](/core)
 <br>
 Meet the core team and stakeholders backing the network.
 
-<a href="https://network.com.de/development">Development</a>
+[Development](/development)
 <br>
-Updates about current builds and development 
+Updates about current builds and development.
 
-<a href="https://network.com.de/research">Governance</a>
+<a href="https://network.foundation">Foundation</a>
+<br>
+The foundation of the network.
+
+[Governance](/governance)
 <br>
 Dive into network's governance structure.
 
-<a href="https://network.com.de/research">Research</a>
+[Research](/research)
 <br>
 Read about our latest research. 
 
-<a href="https://network.com.de/network.pdf">Resources</a>
+[Resources](/resources)
 <br>
 Browse through network's list of resources.
 
