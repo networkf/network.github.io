@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<a href="https://network.com.de/development">About</a>
+[About](/about)
 <br>
 Learn about Network's mission.
 
