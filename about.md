@@ -8,6 +8,7 @@ layout: default
 
 <b><font size="5">About</font></b>
 <br>
+<br>
 Network is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
 <br>
 <br>
