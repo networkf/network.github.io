@@ -21,6 +21,10 @@ Updates about current builds and development
 <br>
 Learn about our latest research. 
 
+<a href="https://network.com.de/research">Network Governance</a>
+<br>
+Learn about the network governance.
+
 <a href="https://network.com.de/network.pdf">Network Whitepaper</a>
 <br>
 The whitepaper that paints the picture of our road ahead.
