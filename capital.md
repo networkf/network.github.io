@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-## Network Capital
+<h2>Network Capital</h2>
 An overview of the capital that is driving the network.
 
 <a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=">Proof of Network</a>
