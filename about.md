@@ -7,7 +7,7 @@ layout: default
 ---
 
 <h2>About Network</h2>
-
+<br>
 Network is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
 <br>
 We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
