@@ -30,6 +30,10 @@ Updates about current builds and development.
 <br>
 The foundation of the network.
 
+[Fund](/fund)
+<br>
+The fund to fund the network.
+
 [Governance](/governance)
 <br>
 Dive into network's governance structure.
