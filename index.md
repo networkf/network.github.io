@@ -11,7 +11,7 @@ We are building an interface to connect you to the dream world, a platform from 
 
 <a href="https://network.com.de/core">Network Core</a>
 <br>
-Learn about the team that is building the network
+Learn about the core team and stakeholders.
 
 <a href="https://network.com.de/dev">Network Development</a>
 <br>
@@ -37,14 +37,5 @@ A list of trackers of how our capital structure is developing.
 <br>
 A list of channels to join the community that is distributed all over the world.
 
-<a href="https://www.network.com.de">Research Forum</a>
-<br>
-A directory showing the latest industry nodes and research
 
-<a href="https://www.network.com.de">Network Foundation</a>
-<br>
-A page dedicated to the network foundation
 
-<a href="https://www.network.com.de">Network Embassy</a>
-<br>
-A list with useful links for the Network Embassy
