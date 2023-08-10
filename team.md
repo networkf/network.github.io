@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-## Network Core
+## Network Team
 Follow the team 
 
 <b>Core Team</b>
