@@ -6,8 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="10">About</font></b>
-<br>
+<h2>About</h2>
 <br>
 Network is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
 <br>
