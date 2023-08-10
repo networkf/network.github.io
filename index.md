@@ -17,6 +17,10 @@ Learn about the team that is building the network
 <br>
 Updates about current builds and development 
 
+<a href="https://network.com.de/research">Network Research</a>
+<br>
+Learn about our latest research. 
+
 <a href="https://network.com.de/network.pdf">Network Whitepaper</a>
 <br>
 The whitepaper that paints the picture of our road ahead.
