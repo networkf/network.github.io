@@ -9,17 +9,17 @@ Network is accelerating the advent of neural interface dreams by building a neur
 
 We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
 
-<a href="https://network.com.de/core">Network Core</a>
-<br>
-Learn about the core team and stakeholders.
-
-<a href="https://network.com.de/dev">Network Development</a>
+<a href="https://network.com.de/development">Network Development</a>
 <br>
 Updates about current builds and development 
 
 <a href="https://network.com.de/research">Network Research</a>
 <br>
 Learn about our latest research. 
+
+<a href="https://network.com.de/core">Network Core</a>
+<br>
+Learn about the core team and stakeholders.
 
 <a href="https://network.com.de/research">Network Governance</a>
 <br>
