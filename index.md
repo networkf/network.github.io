@@ -6,23 +6,27 @@ layout: default
 </head>
 ---
 
-<a href="https://network.com.de/development">Network Development</a>
+<a href="https://network.com.de/development">About</a>
+<br>
+Learn about Network's mission.
+
+<a href="https://network.com.de/core">Core</a>
+<br>
+Meet the core team and stakeholders backing the network.
+
+<a href="https://network.com.de/development">Development</a>
 <br>
 Updates about current builds and development 
 
-<a href="https://network.com.de/research">Network Research</a>
+<a href="https://network.com.de/research">Governance</a>
 <br>
-Learn about our latest research. 
+Dive into network's governance structure.
 
-<a href="https://network.com.de/core">Network Core</a>
+<a href="https://network.com.de/research">Research</a>
 <br>
-Learn about the core team and stakeholders.
+Read about our latest research. 
 
-<a href="https://network.com.de/research">Network Governance</a>
-<br>
-Learn about the network governance.
-
-<a href="https://network.com.de/network.pdf">Network Whitepaper</a>
+<a href="https://network.com.de/network.pdf">Whitepaper</a>
 <br>
 The whitepaper that paints the picture of our road ahead.
 
