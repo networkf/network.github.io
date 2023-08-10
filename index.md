@@ -12,15 +12,15 @@ Learn about Network's mission.
 
 [Capital](/capital)
 <br>
-A list of trackers of how our capital structure is developing.
+The network capital structure.
 
 [Community](/community)
 <br>
-A list of channels to join the community that is distributed all over the world.
+The network community channels.
 
 [Core](/core)
 <br>
-Meet the core team and stakeholders backing the network.
+Meet the core people and stakeholders.
 
 [Development](/development)
 <br>
