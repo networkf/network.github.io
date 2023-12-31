@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-<b><font size="5">Community</font></b>
+<b><font size="5">Network Community Channels</font></b>
 <br>
 <br>
 Please feel free to browse through our channels. Some are more active than others.
