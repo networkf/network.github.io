@@ -12,7 +12,7 @@ Track the development and progress of the network.
 
 [Network Roadmap](/roadmap)
 <br>
-An ongoing roadmap of goals that are in development and in progress. 
+Ongoing roadmap of goals that are in development and in progress. 
 <br>
 <br>
 [Network Dashboard](/dashboard)
