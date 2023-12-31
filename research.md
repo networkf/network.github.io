@@ -6,8 +6,10 @@ layout: default
 </head>
 ---
 ## Research
-Follow the research 
 
-<b>Dream Research Report</b>
+<a href="https://netxork.com/deck">Pitch Deck</a>
 <br>
-Details
+
+<a href="https://network.com.de/network.pdf">Whitepaper</a>
+<br>
+The whitepaper that paints the picture of our road ahead.
