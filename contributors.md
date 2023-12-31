@@ -8,18 +8,17 @@ layout: default
 
 ## Network Contributors
 <br>
+These are the people that have been contributing to the network. Some wish do remain pseudonymous or unnamed.
+<br>
 Link Daniel
 <br>
 <a href="https://www.researchgate.net/profile/Alexander-Bock-8">Alexander Bock</a>: Problem Solving & Philosophy of Mind and
 <br>
-Jeff Bergen: Future Pathways
+jackinthenet: AI & Future Pathways
 <br>
-Amanda Daniel: Neuropsychology
+Maus Daniel: Neuropsychology & Therapeutic Pathways
 <br>
-
+Contributor on Real World Assets Expertise. Ethereum co-founder.
 <br>
-We also have a number of strategic advisors who do not wish to be named.
-
-Contributor on Real World Assets Expertise
+Contriubutor on Nature of Mind & Tibetan Buddhist Philosophy. Background in technology.
 <br>
-Contriubutor on Nature of Mind & Tibetan Buddhist Philosophy
