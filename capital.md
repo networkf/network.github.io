@@ -14,6 +14,7 @@ The network consists of the foundational decentralized network that is governed 
 _As of December 2023:_
 - None of the tokens have been distributed to the public yet.
 - None of the tokens have been sold to investors.
+- We will release tokens to the public according to our [Proof of Network](/proofofnetwork) mechanism.
 - Network Inc the company is in the process of doing its first fundraising round scheduled for Q1 2024.
 
 <b><font size="4">Network Token Economy</font></b>
@@ -23,14 +24,14 @@ _As of December 2023:_
 An real-time, on-chain view of network token ownership.
 <br>
 <br>
-<a href="https://app.skiff.com/docs/695b2531-2143-455c-871a-c7e53ec36995#sl6KBBJ0MLiWsZyIfxY0fvfsR+vKSlHPQ+vuhPkin0E=">Proof of Network</a>
-<br>
-A document explaining proof of network or how the token will be distributed.
-<br>
-<br>
 <a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y">Network Tracker</a>
 <br>
 An ongoing list of tokens distributed to those that build the network.
+<br>
+<br>
+[Proof of Network](/proofofnetwork)
+<br>
+A document explaining proof of network or how the token will be distributed.
 <br>
 <br>
 
