@@ -13,9 +13,9 @@ The purpose of the Network Foundation is to serve as a stable foundation embedde
 <br>
 
 ### Network Foundation Media Channels
-<a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
-<br>
 <a href="https://x.com/networkfdn" target="_blank">X</a>
+<br>
+<a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
 <br>
 <a href="https://youtube.com/@networkfdn" target="_blank">YouTube Channel</a>
 <br>
