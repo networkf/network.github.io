@@ -26,7 +26,7 @@ Maus Daniel: Neuropsychology & Therapeutic Pathways
 Contributor: Real World Assets Expertise. Ethereum co-founder.
 <br>
 <br>
-Contriubutor: Nature of Mind & Tibetan Buddhist Philosophy. Technology Background.
+Contriubutor: Nature of Mind & Tibetan Buddhist Philosophy. Silicon Valley Background.
 <br>
 <br>
 
