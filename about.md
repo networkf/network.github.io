@@ -9,6 +9,4 @@ layout: default
 <b><font size="5">About</font></b>
 <br>
 <br>
-Network's mission is to accelerate the advent of dream exploration technologies and empower individuals with independence from their mind. We are building an interface to the dreamworld that allows individuals to dream consciously on demand and use those experiences to explore the nature of their mind and find freedom from it. 
-
-We are also working towards a global neuroscience technology market for the dreamscape navigation, emphasizing open-source tools and research to foster collaboration and solving common problems of the industry.
+Network's mission is to revolutionize dream exploration technology and empower individuals with independence from their mind. Our goal is to accelerate the advent of the dreamworld and usher in a new paradigm for mental health and mobility. We envision a future in which individuals can consciously dream at will, experience their mind in a virtual reality environment and utilize those experiences to delve into the nature of their mind, heal themselves, and create mental mobility. We are also striving towards a global neuroscience technology market for dreamscape navigation, focusing on open-source tools and research to encourage collaboration and tackle common industry challenges.
