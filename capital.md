@@ -24,7 +24,7 @@ _As of December 2023:_
 An real-time, on-chain view of network token ownership.
 <br>
 <br>
-<a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y">Network Tracker</a>
+[Network Tracker](/tracker)
 <br>
 An ongoing list of tokens distributed to those that build the network.
 <br>
