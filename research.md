@@ -7,8 +7,9 @@ layout: default
 ---
 ## Research
 
-<a href="https://netxork.com/deck">Pitch Deck</a>
+<a href="https://netxork.com/deck">Deck</a>
 <br>
+The latest network startup pitch deck
 
 <a href="https://network.com.de/network.pdf">Whitepaper</a>
 <br>
