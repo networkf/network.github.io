@@ -8,7 +8,7 @@ layout: default
 
 [About](/about)
 <br>
-Network's mission.
+The network mission.
 
 [Capital](/capital)
 <br>
