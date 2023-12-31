@@ -17,7 +17,7 @@ Incorporated in Delaware in November 2021
 
 **Network Limited**
 Incorporated in Wyoming in June 2020
-
+<br>
 <a href="https://netxork.com">Company Website</a>
 <br>
 
