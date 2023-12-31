@@ -8,9 +8,6 @@ layout: default
 
 ## Network Company
 
-<a href="https://netxork.com">Company Website</a>
-<br>
-
 Headquarters in Wyoming, United States. Operations globally and remote.
 
 **Network Inc**
@@ -20,4 +17,12 @@ Incorporated in Delaware in November 2021
 
 **Network Limited**
 Incorporated in Wyoming in June 2020
+
+<a href="https://netxork.com">Company Website</a>
+<br>
+
+**Media Channels:**
+<br>
+<a href="https://x.com/netxork">X</a>
+
 
