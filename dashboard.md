@@ -11,8 +11,15 @@ layout: default
 _Last update: December 31, 2023_
 <br>
 
-Number of tools: 0
-Number of users: 0
+Number of Tools: 0
+<br>
+Number of Users: 0
+<br>
+Years of Research: 5
+<br>
+Hours of Research: 10,000 
+<br>
+Years of Company Established: 3
 
 <b><font size="3">Network Community Channels</font></b>
 <br>
