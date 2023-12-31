@@ -15,7 +15,7 @@ Number of Tools: 0
 <br>
 Number of Users: 0
 <br>
-Number of Failed Experiments: 100
+Community Members: ~ 401
 <br>
 Years of Research: 5
 <br>
@@ -25,6 +25,6 @@ Years of Company Established: 3
 <br>
 Total Revenue to Date: 0
 <br>
-Community Members: ~ 401
+Number of Failed Experiments: 100
 <br>
 Amount of Outside Funding: $0
