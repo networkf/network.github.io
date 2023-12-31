@@ -5,16 +5,24 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-## Foundation
-<a href="https://network.foundation" target="_blank">Network Foundation Website</a>
-<br>
-<a href="https://t.me/networkfoundation" target="_blank">Network Foundation Telegram Channel</a>
-<br>
-<a href="https://t.me/networkfdn" target="_blank">Network Foundation Twitter</a>
-<br>
+### Network Foundation
 <a href="https://github.com/orgs/network-foundation/projects/1/" target="_blank">Network Foundation Roadmap</a>
 <br>
+
+### Network Foundation Media Channels
+<a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
+<br>
+<a href="https://x.com/networkfdn" target="_blank">X</a>
+<br>
+<a href="https://youtube.com/@networkfdn" target="_blank">YouTube Channel</a>
+<br>
+<a href="https://t.me/networkfdn" target="_blank">Telegram Channel</a>
+<br>
 <a href="https://networkfoundaton.slack.com" target="_blank">Network Foundation Slack</a>
+
+
+
+
 
 
 
