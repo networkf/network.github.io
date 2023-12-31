@@ -10,9 +10,11 @@ layout: default
 <br>
 <br>
 
+**Current**
 Fundraising for Network Inc
 
-~Financing for Research Phase (2020-2023)~
-~Incorporated Network Inc in Delaware (November 2021)~
-~Incorporated Network Limited in Wyoming (June 2020)~
-~Established Network Foundation (2020)~
+**Completed:**
+~~Financing for Research Phase (2020-2023)~~
+~~Incorporated Network Inc in Delaware (November 2021)~~
+~~Incorporated Network Limited in Wyoming (June 2020)~~
+~~Established Network Foundation (2020)~~
