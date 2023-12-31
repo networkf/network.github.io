@@ -5,8 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-
-## Network Contributors
+<b><font size="5">Network Contributors</font></b>
 <br>
 These are the people that have been contributing to the network. Some wish do remain pseudonymous or unnamed.
 <br>
