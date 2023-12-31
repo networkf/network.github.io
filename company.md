@@ -19,8 +19,9 @@ Incorporated in Delaware in November 2021
 Incorporated in Wyoming in June 2020
 <br>
 
-<a href="https://netxork.com">Startup Website</a>
+<a href="https://netxork.com">Company Website</a>
 <br>
+The startup website.
 
 **Media Channels:**
 <br>
