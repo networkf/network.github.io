@@ -13,4 +13,4 @@ Network's mission is to revolutionize dream exploration technology and empower i
 
 We envision a future in which individuals can consciously dream at will, experience their mind in a virtual reality environment while harnessing those experiences to delve into the nature of their mind, heal themselves, and create mental mobility. 
 
-We are also working towards a global neuroscience technology market for dreamscape navigation, focusing on open-source tools and research to encourage collaboration and tackle common industry challenges.
+We are also working towards a global neuroscience technology market for dreamscape navigation, focusing on open-source tools and research to encourage collaboration and tackle common industry problems.
