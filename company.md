@@ -23,6 +23,7 @@ Incorporated in Wyoming in June 2020
 <br>
 
 **Media Channels:**
+<br>
 <a href="https://netxork.com">Company Website</a>
 <br>
 <a href="https://x.com/netxork">X</a>
