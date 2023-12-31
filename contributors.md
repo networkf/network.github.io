@@ -12,13 +12,20 @@ These are the people that have been contributing to the network. Some wish do re
 <br>
 Link Daniel
 <br>
+<br>
 <a href="https://www.researchgate.net/profile/Alexander-Bock-8">Alexander Bock</a>: Problem Solving & Philosophy of Mind and
+<br>
 <br>
 jackinthenet: AI & Future Pathways
 <br>
+<br>
 Maus Daniel: Neuropsychology & Therapeutic Pathways
+<br>
 <br>
 Contributor on Real World Assets Expertise. Ethereum co-founder.
 <br>
+<br>
 Contriubutor on Nature of Mind & Tibetan Buddhist Philosophy. Background in technology.
 <br>
+<br>
+
