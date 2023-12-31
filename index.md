@@ -22,7 +22,7 @@ The network community channels.
 <br>
 The company driving the network.
 
-[Core](/core)
+[Contributors](/contributors)
 <br>
 The core team and contributors.
 
