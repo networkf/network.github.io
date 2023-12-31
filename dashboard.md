@@ -11,7 +11,7 @@ layout: default
 _Last update: December 31, 2023_
 <br>
 
-Number of Tools: 0
+Number of Active Tools: 0
 <br>
 Number of Users: 0
 <br>
