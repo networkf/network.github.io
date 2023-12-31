@@ -7,6 +7,7 @@ layout: default
 ---
 <b><font size="5">Network Development Board</font></b>
 <br>
+<br>
 Track the development and progress of the network.
 
 [Network Roadmap](/roadmap)
