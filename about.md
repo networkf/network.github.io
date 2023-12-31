@@ -11,4 +11,4 @@ layout: default
 <br>
 Network's mission is to accelerate the advent of dream exploration technologies and empower individuals with independence from their mind. We are building an interface to the dreamworld that allows individuals to dream consciously on demand and use those experiences to explore the nature of their mind and find freedom from it. 
 
-We are also working towards an open, global neuroscience technology market for the dreamworld, emphasizing open-source tools and research to foster collaboration and solving common goals and problems of the industry.
+We are also working towards a global neuroscience technology market for the dreamworld, emphasizing open-source tools and research to foster collaboration and solving common goals and problems of the industry.
