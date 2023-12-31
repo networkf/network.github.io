@@ -8,7 +8,6 @@ layout: default
 
 <b><font size="5">Network Roadmap</font></b>
 <br>
-<br>
 
 **Current**
 <br>
