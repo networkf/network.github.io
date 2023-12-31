@@ -19,7 +19,7 @@ _As of December 2023:_
 
 <b><font size="4">Network Token Economy</font></b>
 
-<a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A">Network Token</a>
+<a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44">Network Token</a>
 <br>
 An real-time, on-chain view of network token ownership.
 <br>
