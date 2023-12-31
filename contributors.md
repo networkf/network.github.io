@@ -10,12 +10,16 @@ layout: default
 <br>
 Link Daniel
 <br>
-<a href="https://www.researchgate.net/profile/Alexander-Bock-8">Alexander Bock</a>
+<a href="https://www.researchgate.net/profile/Alexander-Bock-8">Alexander Bock</a>: Problem Solving & Philosophy of Mind and
 <br>
-Jeff Bergen
+Jeff Bergen: Future Pathways
 <br>
-Amanda Daniel
+Amanda Daniel: Neuropsychology
 <br>
 
 <br>
 We also have a number of strategic advisors who do not wish to be named.
+
+Contributor on Real World Assets Expertise
+<br>
+Contriubutor on Nature of Mind & Tibetan Buddhist Philosophy
