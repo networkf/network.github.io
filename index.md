@@ -10,6 +10,10 @@ layout: default
 <br>
 The network mission.
 
+[Blog](/blog)
+<br>
+Network updates and announcements.
+
 [Capital](/capital)
 <br>
 The network capital structure.
@@ -36,8 +40,5 @@ The foundation of the network.
 
 [Research](/research)
 <br>
-Industry and network research.
+Network research repository.
 
-[Updates](/updates)
-<br>
-Network updates and announcements.
