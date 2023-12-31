@@ -20,6 +20,8 @@ Years of Research: 5
 Hours of Research: 10,000 
 <br>
 Years of Company Established: 3
+<br>
+Total Revenue to Date: 0
 
 <b><font size="3">Network Community Channels</font></b>
 <br>
