@@ -6,4 +6,8 @@ layout: default
 </head>
 ---
 
-Startup
+## Network Company
+
+Network Inc 
+
+Incorporated November 2021
