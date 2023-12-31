@@ -5,7 +5,10 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
+
 ### Network Foundation
+The purpose of the Network Foundation is to serve as a stable foundation embedded on international law in support of what the network is developing.
+
 <a href="https://github.com/orgs/network-foundation/projects/1/" target="_blank">Network Foundation Roadmap</a>
 <br>
 
