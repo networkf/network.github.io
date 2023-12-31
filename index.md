@@ -18,32 +18,23 @@ The network capital structure.
 <br>
 The network community channels.
 
+[Company](/company)
+<br>
+The company driving the network.
+
 [Core](/core)
 <br>
 Meet the core people and contributors.
 
 [Development](/development)
 <br>
-Updates about current builds and development.
+Updates about current builds and projects.
 
 [Foundation](/foundation)
-The foundation of the network.
-
-[Governance](/governance)
 <br>
-Dive into network's governance structure.
+The foundation of the network.
 
 [Research](/research)
 <br>
 Read about our latest research. 
-
-[Resources](/resources)
-<br>
-Browse through network's list of resources.
-
-[Startup](/startup)
-<br>
-The company driving the network.
-
-
 
