@@ -11,7 +11,13 @@ layout: default
 <a href="https://netxork.com">Company Website</a>
 <br>
 
-Network Inc in Delaware (Incorporated November 2021)
-Network Limited in Wyoming. (Incorporated June 2020)
-
 Headquarters in Wyoming, United States.
+
+**Network Inc**
+<br>
+Incorporated in Delaware in November 2021
+<br>
+
+**Network Limited**
+Incorporated in Wyoming in June 2020
+
