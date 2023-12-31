@@ -8,6 +8,8 @@ layout: default
 
 ## Network Company
 
+The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. 
+
 Headquarters in Wyoming, United States. Operations globally and remote.
 
 **Network Inc**
