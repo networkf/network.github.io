@@ -19,7 +19,7 @@ Proof of Network is our mechanism by which we plan to distribute the network tok
 
 Over time, the token holders will be able to broadcast problems and decide on amount of tokens to be distributed for each problem. As each problem may carry a different weight, a fair calculation will have to be made.
 
-**Network Token Distribution Tracker:**
-https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y
+<a href="https://docs.google.com/spreadsheets/d/1m9o-NVi9G2ksfayXTmo8XrTnp5_gyz4v4nxIQ5MIs8Y
+>**Network Token Distribution Tracker**</a>:
 
 We will update the tracker continuously and post new problems that need to be solved. Proof of network is a novel concept and will also be continuously improved upon with the help of everyone involved. Those that hold the token are going to help to bootstrap the network and they will govern the direction of the network. The use case of the token will evolve over time.  
