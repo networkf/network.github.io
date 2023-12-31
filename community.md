@@ -31,16 +31,16 @@ We have many different channels. These are our primary and further below other c
 <br>
 <a href="https://twitter.com/networkfdn" target="_blank">Network Foundation X</a>
 <br>
-<a href="https://www.youtube.com/@networkfdn" target="_blank">Network YouTube</a>
+<a href="https://www.youtube.com/@networkfdn" target="_blank">Network Foundation YouTube</a>
 <br>
-<a href="https://t.me/networkfdn" target="_blank">Network Foundation Announcements</a>
+<a href="https://t.me/networkfdn" target="_blank">Network Foundation Telegram Channel</a>
 <br>
 
 
 ### Other channels:
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Network Matrix</a>
 <br>
-<a href="https://anchor.fm/networkfund" target="_blank">Network Podcast</a>
+<a href="https://podcasters.spotify.com/pod/show/netxork" target="_blank">Network Podcast</a>
 <br>
 <a href="https://calendar.google.com/calendar/u/0?cid=dG9kcTBvdGt2YzF1MXM5dG9kOTIxN3FzdWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Network Calendar</a>
 <br>
