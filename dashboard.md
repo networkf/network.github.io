@@ -25,6 +25,6 @@ Years of Company Established: 3
 <br>
 Total Revenue to Date: 0
 <br>
-Number of Failed Experiments: 100
+Number of Failed Experiments: 260
 <br>
 Amount of Outside Funding: $0
