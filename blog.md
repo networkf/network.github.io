@@ -6,5 +6,6 @@ layout: default
 </head>
 ---
 
-## Network Blog
+<b><font size="5">Blog</font></b>
+
 
