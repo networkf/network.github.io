@@ -10,7 +10,8 @@ layout: default
 <br>
 These are the people that have been contributing to the network. Some wish do remain pseudonymous or unnamed.
 <br>
-Link Daniel
+<br>
+<a href="https://linkdaniel.org>Link Daniel</a>
 <br>
 <br>
 <a href="https://www.researchgate.net/profile/Alexander-Bock-8">Alexander Bock</a>: Problem Solving & Philosophy of Mind and
