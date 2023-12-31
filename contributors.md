@@ -23,7 +23,7 @@ jackinthenet: AI & Future Pathways
 Maus Daniel: Neuropsychology & Therapeutic Pathways
 <br>
 <br>
-Contributor: Real World Assets Expertise. Ethereum co-founder.
+Contributor: Real World Assets Expertise. Early 2015 Ethereum contributor.
 <br>
 <br>
 Contributor: Nature of Mind & Tibetan Buddhist Philosophy. Silicon Valley Background.
