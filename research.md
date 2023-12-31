@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-## Research
+<b><font size="5">Network Research</font></b>
 
 <a href="https://netxork.com/deck">Deck</a>
 <br>
