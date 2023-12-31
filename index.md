@@ -36,4 +36,8 @@ The foundation of the network.
 
 [Research](/research)
 <br>
-Network research.
+Industry and network research.
+
+[Updates](/updates)
+<br>
+Network updates and announcements.
