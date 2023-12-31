@@ -7,7 +7,7 @@ layout: default
 ---
 <b><font size="5">Network Contributors</font></b>
 <br>
-These are the people that have been contributing to the network. Some wish do remain pseudonymous or unnamed.
+These are the people that have been contributing to the network. Some wish to remain pseudonymous or unnamed.
 <br>
 <br>
 <a href="https://linkdaniel.org">Link Daniel</a>: Founder & Chief Architect
