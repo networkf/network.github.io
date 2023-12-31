@@ -17,14 +17,14 @@ Number of Users: 0
 <br>
 Community Members: ~ 401
 <br>
+Capital Raised: $0
+<br>
 Years of Research: 5
 <br>
 Hours of Research: 10,400+ 
 <br>
-Years of Company Established: 3
-<br>
-Total Revenue to Date: 0
+Years Since Company Established: 3
 <br>
 Number of Failed Experiments: 260
+Total Revenue to Date: 0
 <br>
-Amount of Outside Funding: $0
