@@ -13,7 +13,7 @@ We have many different channels. These are our primary and further below other c
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord</a>
 <br>
-<a href="https://twitter.com/netxork" target="_blank">Network X</a>
+<a href="https://x.com/netxork" target="_blank">Network X</a>
 <br>
 <a href="https://network.substack.com" target="_blank">Network Substack</a>
 <br>
@@ -29,9 +29,9 @@ We have many different channels. These are our primary and further below other c
 ### Network Foundation Channels:
 <a href="https://t.me/networkfoundation" target="_blank">Network Foundation Telegram</a>
 <br>
-<a href="https://twitter.com/networkfdn" target="_blank">Network Foundation X</a>
+<a href="https://x.com/networkfdn" target="_blank">Network Foundation X</a>
 <br>
-<a href="https://www.youtube.com/@networkfdn" target="_blank">Network Foundation YouTube</a>
+<a href="https://youtube.com/@networkfdn" target="_blank">Network Foundation YouTube</a>
 <br>
 <a href="https://t.me/networkfdn" target="_blank">Network Foundation Telegram Channel</a>
 <br>
