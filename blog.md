@@ -6,5 +6,5 @@ layout: default
 </head>
 ---
 
-## Network Updates
+## Network Blog
 
