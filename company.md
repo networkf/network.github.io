@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Network Company</font></b>
+<b><font size="5">Network Company Overview</font></b>
 
 The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. 
 
