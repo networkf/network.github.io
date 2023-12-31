@@ -12,24 +12,8 @@ _Last update: December 31, 2023_
 <br>
 
 Number of tools: 0
-Number of users for interface: 0
+Number of users: 0
 
 <b><font size="5">Network Community Channels</font></b>
 <br>
-Telegram Community: 247
-<br>
-Discord Server:	54
-<br>
-X: 69
-<br>
-Substack: 12
-<br>
-Youtube: 1
-<br>
-Reddit: 6
-<br>
-Medium: 9
-<br>
-Paragraph: 3
-<br>
-<b>Total: 401 </b>
+<b>Total: ~ 401 </b>
