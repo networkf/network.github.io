@@ -14,6 +14,6 @@ _Last update: December 31, 2023_
 Number of tools: 0
 Number of users: 0
 
-<b><font size="5">Network Community Channels</font></b>
+<b><font size="3">Network Community Channels</font></b>
 <br>
 <b>Total: ~ 401 </b>
