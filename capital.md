@@ -6,7 +6,8 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Capital</font></b>
+<b><font size="5">Network Capital Structure</font></b>
+<br>
 The network consists of the foundational decentralized network that is governed by its token holders globally and Network, the private company that is building the interface, namely tools and technology for dream exploration, which will issue equity / stock to investors for capital.  
 
 _As of December 2023:_
