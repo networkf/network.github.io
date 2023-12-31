@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 ## Network Community
-We have many different channels. These are our primary and further below other channels to join. Our community is all over the world.
+Please feel free to browse through our channels. Some are more active than others.
 
 ### Network channels:
 <a href="https://t.me/networkx" target="_blank">Network Telegram Group</a>
