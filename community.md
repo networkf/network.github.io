@@ -7,6 +7,7 @@ layout: default
 ---
 <b><font size="5">Community</font></b>
 <br>
+<br>
 Please feel free to browse through our channels. Some are more active than others.
 
 <b><font size="4">Primary Network Channels:</font></b>
