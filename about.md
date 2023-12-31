@@ -9,6 +9,10 @@ layout: default
 <b><font size="5">About</font></b>
 <br>
 <br>
-Network's mission is to accelerate the advent of dream exploration technologies by creating an interface to connect individuals to the dream world, a platform from which they can navigate through their dreams consciously and use those experiences to break free from their mind and achieve their goals.
+Network's mission is to accelerate the advent of dream exploration technologies and empower individuals to be free from their mind. 
 
-In line with this mission, the Network Foundation is also building a market for neuroscience technologies, with a focus on open-source tools and research. This global repository will serve as a valuable resource for researchers, developers, and enthusiasts in the field of neuroscience. By fostering collaboration and innovation, the Network Foundation aims to accelerate the advent of dream exploration technologies and help humanity achieve its full potential.
+We are building an interface to the dream world, from which individuals can dream consciously on demand and experience their mind in a virtual reality setting. We are building tools that people can use to use their dreams to find freedom from their mind. 
+
+We are also building a global neuroscience technology market, emphasizing open-source tools and research to foster collaboration and solving common goals that the industry faces. 
+
+
