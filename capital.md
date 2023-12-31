@@ -7,7 +7,7 @@ layout: default
 ---
 
 <h2>Network Capital</h2>
-An overview of the capital that is driving the network.
+The network consists of the foundational decentralized network that is governed by its token holders globally and Network, the private company that is building the interface, namely tools and technology for dream exploration, which will issue equity / stock to investors for capital.  
 
 _As of December 2023:_
 - None of the tokens have been distributed to the public yet.
