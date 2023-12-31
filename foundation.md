@@ -5,14 +5,15 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
+<b><font size="5">Foundation</font></b>
 
-### Network Foundation
 The purpose of the Network Foundation is to serve as a stable foundation embedded in international law for the mission of the network.
 
 <a href="https://github.com/orgs/network-foundation/projects/1/" target="_blank">Network Foundation Roadmap</a>
 <br>
 
-### Network Foundation Media Channels
+<b><font size="4">Network Foundation Media Channels</font></b>
+
 <a href="https://x.com/networkfdn" target="_blank">X</a>
 <br>
 <a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
