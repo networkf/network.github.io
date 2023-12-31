@@ -8,7 +8,7 @@ layout: default
 
 [About](/about)
 <br>
-Learn about Network's mission.
+Network's mission.
 
 [Capital](/capital)
 <br>
@@ -20,19 +20,14 @@ The network community channels.
 
 [Core](/core)
 <br>
-Meet the core people and stakeholders.
+Meet the core people and contributors.
 
 [Development](/development)
 <br>
 Updates about current builds and development.
 
-<a href="https://network.foundation">Foundation</a>
-<br>
+[Foundation](/foundation)
 The foundation of the network.
-
-[Fund](/fund)
-<br>
-The fund to fund the network.
 
 [Governance](/governance)
 <br>
