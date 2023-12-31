@@ -8,45 +8,53 @@ layout: default
 ## Network Community
 We have many different channels. These are our primary and further below other channels to join. Our community is all over the world.
 
-### Primary channels:
-<a href="https://t.me/networkfund" target="_blank">Network Telegram</a>
+### Network channels:
+<a href="https://t.me/networkx" target="_blank">Network Telegram</a>
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord</a>
 <br>
-<a href="https://twitter.com/networkfund" target="_blank">Network Twitter</a>
+<a href="https://twitter.com/netxork" target="_blank">Network X</a>
 <br>
 <a href="https://network.substack.com" target="_blank">Network Substack</a>
 <br>
 <a href="https://network.medium.com" target="_blank">Network Medium</a>
 <br>
-<a href="https://reddit.com/r/networkfund" target="_blank">Network Reddit</a>
+<a href="https://reddit.com/r/netxork" target="_blank">Network Reddit</a>
 <br>
-<a href="https://forum.network.fund" target="_blank">Network Forum</a>
+<a href="https://forum.network.foundation" target="_blank">Network Forum</a>
 <br>
-<a href="https://www.youtube.com/@networkfund" target="_blank">Network YouTube</a>
+<a href="https://www.youtube.com/@netxork" target="_blank">Network YouTube</a>
 <br>
 
+### Network Foundation Channels:
+<a href="https://t.me/networkfoundation" target="_blank">Network Foundation Telegram</a>
+<br>
+<a href="https://twitter.com/networkfdn" target="_blank">Network Foundation X</a>
+<br>
+<a href="https://www.youtube.com/@networkfdn" target="_blank">Network YouTube</a>
+<br>
+<a href="https://t.me/networkfdn" target="_blank">Network Foundation Announcements</a>
+<br>
+
+
 ### Other channels:
+<a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Network Matrix</a>
+<br>
 <a href="https://anchor.fm/networkfund" target="_blank">Network Podcast</a>
 <br>
 <a href="https://calendar.google.com/calendar/u/0?cid=dG9kcTBvdGt2YzF1MXM5dG9kOTIxN3FzdWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Network Calendar</a>
 <br>
-<a href="https://networkfund.eventbrite.com" target="_blank">Network Eventbrite</a>
+<a href="https://facebook.com/groups/netxork" target="_blank">Network Facebook Group</a>
 <br>
-<a href="https://facebook.com/groups/networkfund" target="_blank">Network Facebook Group</a>
+<a href="https://facebook.com/netxork" target="_blank">Network Facebook Page</a>
 <br>
-<a href="https://instagram.com/networkfund" target="_blank">Network Instagram</a>
+<a href="https://instagram.com/netxork" target="_blank">Network Instagram</a>
 <br>
-<a href="https://network.com.de" target="_blank">Network Research</a>
+<a href="https://netxork.slack.com" target="_blank">Network Slack Workspace</a>
 <br>
-<a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Network Matrix</a>
+<a href="https://netxork.eventbrite.com" target="_blank">Network Eventbrite</a>
 <br>
-<a href="https://networkfund.slack.com" target="_blank">Network Slack Workspace</a>
-<br>
-<a href="https://t.me/networkfoundation" target="_blank">Network Foundation Announcements</a>
-<br>
-<a href="https://tiktok.com/networkfund" target="_blank">Network TikTok</a>
-<br>
+
 
 
 
