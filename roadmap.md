@@ -15,7 +15,7 @@ Fundraising for Network Inc
 
 **Completed:**
 <br>
-~~Financing for Research Phase III (2023)~~
+~~Financing for Research Phase IV (2023)~~
 <br>
 ~~Financing for Research Phase III (2022)~~
 <br>
