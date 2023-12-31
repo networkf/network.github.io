@@ -9,7 +9,7 @@ layout: default
 <b><font size="5">About</font></b>
 <br>
 <br>
-Network's mission is to accelerate the advent of dream exploration technologies and empower individuals to be free from their mind. We are building an interface to the dream world, from which individuals can dream consciously on demand and experience their mind in a virtual reality setting. We are building tools that people can use to use their dreams to find freedom from their mind. 
+Network's mission is to accelerate the advent of dream exploration technologies and empower individuals to be free from their mind. We are building an interface to the dreamworld that allows individuals to regularly dream consciously and use those experience as a laboratory to explore the nature of their mind and find freedom from it. 
 
 We are also working towards a global neuroscience technology market, emphasizing open-source tools and research to foster collaboration and solving common goals and problems of the industry.
 
