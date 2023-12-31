@@ -11,7 +11,9 @@ layout: default
 
 **Current**
 <br>
-Fundraising for Network Inc
+First Fundraising Round for Network Inc
+<br>
+First Version of Network Interface
 
 **Completed:**
 <br>
