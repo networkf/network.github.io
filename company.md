@@ -8,6 +8,7 @@ layout: default
 
 ## Network Company
 
-Network Inc 
+Network Inc (Incorporated November 2021)
 
-Incorporated November 2021
+<a href="https://netxork.com">Company Website</a>
+<br>
