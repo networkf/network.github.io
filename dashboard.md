@@ -17,7 +17,7 @@ Number of Users: 0
 <br>
 Years of Research: 5
 <br>
-Hours of Research: 10,000 
+Hours of Research: 10,400+ 
 <br>
 Years of Company Established: 3
 <br>
