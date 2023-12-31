@@ -11,6 +11,6 @@ layout: default
 <br>
 The latest network startup pitch deck
 
-<a href="https://network.com.de/network.pdf">Whitepaper</a>
+<a href="https://network.foundation/network.pdf">Whitepaper</a>
 <br>
 The whitepaper that paints the picture of our road ahead.
