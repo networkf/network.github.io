@@ -25,4 +25,4 @@ Total Revenue to Date: 0
 <br>
 Community Members: ~ 401
 <br>
-Amount of Outside Funding for any Entity: $0
+Amount of Outside Funding: $0
