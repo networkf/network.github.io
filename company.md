@@ -11,7 +11,7 @@ layout: default
 <a href="https://netxork.com">Company Website</a>
 <br>
 
-Headquarters in Wyoming, United States.
+Headquarters in Wyoming, United States. Operations globally and remote.
 
 **Network Inc**
 <br>
