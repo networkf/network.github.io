@@ -24,7 +24,7 @@ The company driving the network.
 
 [Core](/core)
 <br>
-Meet the core people and contributors.
+The core team and contributors.
 
 [Development](/development)
 <br>
