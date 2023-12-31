@@ -9,9 +9,9 @@ layout: default
 We have many different channels. These are our primary and further below other channels to join. Our community is all over the world.
 
 ### Network channels:
-<a href="https://t.me/networkx" target="_blank">Network Telegram</a>
+<a href="https://t.me/networkx" target="_blank">Network Telegram Group</a>
 <br>
-<a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord</a>
+<a href="https://discord.gg/sCtK6YK" target="_blank">Network Discord Server</a>
 <br>
 <a href="https://x.com/netxork" target="_blank">Network X</a>
 <br>
@@ -21,9 +21,9 @@ We have many different channels. These are our primary and further below other c
 <br>
 <a href="https://reddit.com/r/netxork" target="_blank">Network Reddit</a>
 <br>
-<a href="https://forum.network.foundation" target="_blank">Network Forum</a>
+<a href="https://network.flarum.cloud" target="_blank">Network Forum</a>
 <br>
-<a href="https://www.youtube.com/@netxork" target="_blank">Network YouTube</a>
+<a href="https://www.youtube.com/@netxork" target="_blank">Network YouTube Channel</a>
 <br>
 
 ### Network Foundation Channels:
