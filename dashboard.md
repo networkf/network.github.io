@@ -13,7 +13,7 @@ _Last update: December 31, 2023_
 
 Number of Active Tools: 0
 <br>
-Number of Users: 0
+Number of Active Users: 0
 <br>
 Community Members: ~ 401
 <br>
