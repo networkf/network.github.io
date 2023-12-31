@@ -32,7 +32,7 @@ The contributors to the network.
 
 [Development](/development)
 <br>
-Updates about current builds and projects.
+Progress across the network
 
 [Foundation](/foundation)
 <br>
