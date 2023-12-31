@@ -5,7 +5,8 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-## Network Development
+<b><font size="5">Network Contributors</font></b>
+
 Track the development and progress of the network.
 
 <a href="https://networkfund.notion.site/Job-Board-1497e87749b04767b98a75094654ae79" target="_blank">Network Bulletin Board</a>
