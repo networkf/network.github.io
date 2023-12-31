@@ -23,6 +23,6 @@ Years of Company Established: 3
 <br>
 Total Revenue to Date: 0
 <br>
-Community Channels Nodes: ~ 401
+Community Members: ~ 401
 <br>
 Amount of Outside Funding for any Entity: $0
