@@ -22,7 +22,5 @@ Hours of Research: 10,000
 Years of Company Established: 3
 <br>
 Total Revenue to Date: 0
-
-<b><font size="3">Network Community Channels</font></b>
 <br>
-<b>Total: ~ 401 </b>
+Community Channels Nodes: ~ 401
