@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-<b><font size="5">Foundation</font></b>
+<b><font size="5">Network Foundation</font></b>
 
 The purpose of the Network Foundation is to serve as a stable foundation embedded in international law for the mission of the network.
 
