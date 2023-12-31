@@ -7,3 +7,11 @@ layout: default
 ---
 
 ## Network Core
+<br>
+Link Daniel
+<br>
+<a href="https://www.researchgate.net/profile/Alexander-Bock-8">Alexander Bock</a>
+Jeff Bergen
+<br>
+Amanda Daniel
+<br>
