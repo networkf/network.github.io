@@ -8,7 +8,7 @@ layout: default
 
 <b><font size="5">Network Company Overview</font></b>
 
-The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. 
+The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. The company is privately held.
 
 Headquarters in Wyoming, United States. Operations globally and remote.
 
