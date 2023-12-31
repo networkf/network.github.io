@@ -16,3 +16,6 @@ Jeff Bergen
 <br>
 Amanda Daniel
 <br>
+
+<br>
+We also have a number of strategic advisors who do not wish to be named.
