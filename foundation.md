@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Network Foundation
-The purpose of the Network Foundation is to serve as a stable foundation embedded on international law in support of what the network is developing.
+The purpose of the Network Foundation is to serve as a stable foundation embedded in international law for the mission of the network.
 
 <a href="https://github.com/orgs/network-foundation/projects/1/" target="_blank">Network Foundation Roadmap</a>
 <br>
