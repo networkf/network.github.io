@@ -9,7 +9,6 @@ layout: default
 <b><font size="5">About</font></b>
 <br>
 <br>
-Network is accelerating the advent of neural interface dreams by building a neuroscience market with novel incentives and creating tools for individuals to free their mind and realize their dreams.
-<br>
-<br>
-We are building an interface to connect you to the dream world, a platform from which you can break free from infinite mental loops and a research market to bring our industry closer together.
+Network's mission is to accelerate the advent of dream exploration technologies by creating an interface to connect individuals to the dream world, a platform from which they can navigate through their dreams consciously and use those experiences to break free from their mind and achieve their goals.
+
+In line with this mission, the Network Foundation is also building a market for neuroscience technologies, with a focus on open-source tools and research. This global repository will serve as a valuable resource for researchers, developers, and enthusiasts in the field of neuroscience. By fostering collaboration and innovation, the Network Foundation aims to accelerate the advent of dream exploration technologies and help humanity achieve its full potential.
