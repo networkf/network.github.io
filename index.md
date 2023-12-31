@@ -36,5 +36,4 @@ The foundation of the network.
 
 [Research](/research)
 <br>
-Read about our latest research. 
-
+Network research.
