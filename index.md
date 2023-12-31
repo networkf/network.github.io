@@ -24,7 +24,7 @@ The company driving the network.
 
 [Contributors](/contributors)
 <br>
-The core team and contributors.
+The contributors to the network.
 
 [Development](/development)
 <br>
