@@ -7,5 +7,5 @@ layout: default
 ---
 
 <b><font size="5">Blog</font></b>
-
-
+<br>
+<br>
