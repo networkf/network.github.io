@@ -11,9 +11,11 @@ layout: default
 <br>
 
 **Current**
+<br>
 Fundraising for Network Inc
 
 **Completed:**
+<br>
 ~~Financing for Research Phase (2020-2023)~~
 <br>
 ~~Incorporated Network Inc in Delaware (November 2021)~~
