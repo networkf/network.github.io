@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Capital</h2>
+<b><font size="5">Capital</font></b>
 The network consists of the foundational decentralized network that is governed by its token holders globally and Network, the private company that is building the interface, namely tools and technology for dream exploration, which will issue equity / stock to investors for capital.  
 
 _As of December 2023:_
@@ -14,7 +14,7 @@ _As of December 2023:_
 - None of the tokens have been sold to investors.
 - Network Inc the company is in the process of doing its first fundraising round scheduled for Q1 2024.
 
-<h3>Network Token Economy</h3>
+<b><font size="4">Network Token Economy</font></b>
 
 <a href="https://etherscan.io/token/0x7b5726f8261705f6b9e60094ef4427f8e2f29a44?a=0xA11AF6913D21CaB375086e1eb93A60C7f739B15A">Network Token</a>
 <br>
