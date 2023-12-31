@@ -6,9 +6,11 @@ layout: default
 </head>
 ---
 <b><font size="5">Community</font></b>
+<br>
 Please feel free to browse through our channels. Some are more active than others.
 
-### Primary Network Channels:
+<b><font size="4">Primary Network Channels:</font></b>
+<br>
 <a href="https://x.com/netxork" target="_blank">X</a>
 <br>
 <a href="https://t.me/networkx" target="_blank">Telegram Group</a>
@@ -30,7 +32,8 @@ Please feel free to browse through our channels. Some are more active than other
 <a href="https://paragraph.xyz/@network" target="_blank">Paragraph Blog</a>
 <br>
 
-### Seconday Network Channels:
+<b><font size="4">Secondary Network Channels:</font></b>
+<br>
 <a href="https://matrix.to/#/!XNSlHnqIwCumTmcAhm:matrix.org" target="_blank">Matrix</a>
 <br>
 <a href="https://podcasters.spotify.com/pod/show/netxork" target="_blank">Podcast</a>
