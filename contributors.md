@@ -11,7 +11,7 @@ layout: default
 These are the people that have been contributing to the network. Some wish do remain pseudonymous or unnamed.
 <br>
 <br>
-<a href="https://linkdaniel.org>Link Daniel</a>
+<a href="https://linkdaniel.org>Link Daniel</a>: Founder & Chief Architect
 <br>
 <br>
 <a href="https://www.researchgate.net/profile/Alexander-Bock-8">Alexander Bock</a>: Problem Solving & Philosophy of Mind and
