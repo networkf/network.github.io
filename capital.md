@@ -9,9 +9,10 @@ layout: default
 <h2>Network Capital</h2>
 An overview of the capital that is driving the network.
 
-- None of the tokens have been distributed to the public yet
-- None of the tokens have been sold to investors
-- Network Inc the company is in the process of doing its first fundraising round.
+_As of December 2023:_
+- None of the tokens have been distributed to the public yet.
+- None of the tokens have been sold to investors.
+- Network Inc the company is in the process of doing its first fundraising round scheduled for Q1 2024.
 
 <h3>Network Token Economy</h3>
 
