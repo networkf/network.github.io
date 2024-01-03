@@ -52,7 +52,17 @@ Please feel free to browse through our channels. Some are more active than other
 <a href="https://netxork.eventbrite.com" target="_blank">Eventbrite</a>
 <br>
 
+<b><font size="4">Network Foundation Media Channels</font></b>
 
+<a href="https://x.com/networkfdn" target="_blank">X</a>
+<br>
+<a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
+<br>
+<a href="https://youtube.com/@networkfdn" target="_blank">YouTube Channel</a>
+<br>
+<a href="https://t.me/networkfdn" target="_blank">Telegram Channel</a>
+<br>
+<a href="https://networkfoundaton.slack.com" target="_blank">Network Foundation Slack</a>
 
 
 
