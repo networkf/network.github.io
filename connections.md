@@ -6,13 +6,13 @@ layout: default
 </head>
 ---
 
-**Harvard Alumni Entrepreneurs**
+**<a href="https://www.harvardae.org/">Harvard Alumni Entrepreneurs</a>**
 <br>
 _2021_
 <br>
 Network has been informally part of different gatherings and events. Harvard Alumni Entrepreneurs (HarvardAE) is a non-profit organization fueled by the collective brilliance of Harvard University alumni who share a passion for entrepreneurship.
 
-**Startup with Chainlink**
+**<a href="https://blog.chain.link/announcing-startup-with-chainlink/">Startup with Chainlink</a>**
 <br>
 _2021_
 <br>
