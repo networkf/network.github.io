@@ -9,8 +9,6 @@ layout: default
 <b><font size="5">Network Token Structure</font></b>
 <br>
 <br>
-The network consists of the foundational decentralized network that is governed by its token holders globally and Network, the private company that is building the interface, namely tools and technology for dream exploration, which will issue equity / stock to investors for capital.  
-
 _As of December 2023:_
 - None of the tokens have been distributed to the public yet.
 - None of the tokens have been sold to investors.
