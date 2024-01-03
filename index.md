@@ -16,7 +16,7 @@ Network updates and announcements.
 
 [Capital](/capital)
 <br>
-The network capital structure.
+The network funding structure.
 
 [Community](/community)
 <br>
