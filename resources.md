@@ -6,6 +6,10 @@ layout: default
 </head>
 ---
 
+<b><font size="5">Network Resources</font></b>
+<br>
+<br>
+
 <a href="https://netxork.com">Startup Website</a>
 <br>
 Our official network startup website.
