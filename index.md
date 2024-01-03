@@ -42,6 +42,10 @@ The foundation of the network.
 <br>
 Network research repository.
 
+[Resources](/resources)
+<br>
+Network resources.
+
 [Token](/token)
 <br>
 The network token structure.
