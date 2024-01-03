@@ -38,6 +38,10 @@ Progress across the network
 <br>
 The foundation of the network.
 
+[History](/history)
+<br>
+The network history.
+
 [Research](/research)
 <br>
 Network research repository.
