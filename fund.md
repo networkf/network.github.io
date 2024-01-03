@@ -6,4 +6,8 @@ layout: default
 </head>
 ---
 
-<h1>Fund</h1>
+<b><font size="5">Network Funding Structure</font></b>
+<br>
+<br>
+
+This document will outline the funding structure
