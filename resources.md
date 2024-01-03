@@ -12,7 +12,7 @@ layout: default
 
 <a href="https://netxork.com">Startup Website</a>
 <br>
-Our official network startup website.
+The network startup website.
 
 <a href="https://netxork.com/deck">Deck</a>
 <br>
