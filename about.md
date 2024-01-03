@@ -9,6 +9,13 @@ layout: default
 <b><font size="5">About</font></b>
 <br>
 <br>
+**Hello World**
+<br>
+Welcome to the foundation website of Network. Our network is comprised of the decentralized foundation that supports Network, the company developing the interface to the dreamworld.
+
+**Network Mission**
+<br>
+
 Network's mission is to revolutionize dream exploration technology and make tools for individuals to free themselves from their mind. Our goal is to accelerate the advent of the dreamworld and empower individuals by creating a new paradigm for mental mobility. 
 
 We believe that a global neurotech market for dreamscape navigation requires a novel set of incentives and different types of coordination to ensure that the contents of dreams will be sovereign to the dreamer.  
