@@ -8,7 +8,7 @@ layout: default
 
 [About](/about)
 <br>
-The network mission.
+More about Network.
 
 [Blog](/blog)
 <br>
@@ -41,6 +41,10 @@ The foundation of the network.
 [History](/history)
 <br>
 The network history.
+
+[Mission](/mission)
+<br>
+The network mission.
 
 [Research](/research)
 <br>
