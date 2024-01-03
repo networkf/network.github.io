@@ -23,5 +23,7 @@ info [at] netxork.com
 **Worldwide Offices**
 
 Wyoming, United States
+<br>
 Dusseldorf, Germany
-Zug, Switzerland
+<br>
+Switzerland
