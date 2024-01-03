@@ -5,11 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-<b><font size="5">Network Research Repository</font></b>
-
-<a href="https://netxork.com/deck">Deck</a>
-<br>
-The latest network startup pitch deck
+<b><font size="5">Network Research</font></b>
 
 <a href="https://network.foundation/network.pdf">Whitepaper</a>
 <br>
