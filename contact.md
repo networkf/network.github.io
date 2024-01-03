@@ -9,7 +9,7 @@ layout: default
 <br>
 <br>
 
-Generally you can always reach one of us through any of the [community channels](/community) or by email. 
+Generally you can reach one of us through any of our [community channels](/community) or alternatively by email. 
 
 **Foundation related:**
 <br>
