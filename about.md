@@ -11,6 +11,7 @@ layout: default
 <br>
 **Welcome to the Network**
 <br>
+<br>
 Our vision for the Network is to serve as a portal to the realm of dreams. The Network is not merely a technological advancement; it is a diverse ecosystem comprising individuals and organizations that collaboratively construct and expand the Network. The Network ecosystem was not meticulously crafted by a single person or entity; rather, it has flourished through the collective efforts of those who care for and foster its growth, resulting in a more vibrant and varied ecosystem.
 <br>
 This is the foundation website of Network. Our network is comprised of the decentralized foundation that supports Network, the company developing the interface to the dreamworld.
