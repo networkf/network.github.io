@@ -6,10 +6,14 @@ layout: default
 </head>
 ---
 
-<a href="https://network.fund">Website</a>
+<a href="https://netxork.com">Startup Website</a>
 <br>
-Our official website that previews our mission.
+Our official network startup website.
 
-<a href="https://network.com.de/network.pdf">Whitepaper</a>
+<a href="https://netxork.com/deck">Deck</a>
+<br>
+The network startup pitch deck.
+
+<a href="https://network.foundation/network.pdf">Whitepaper</a>
 <br>
 The whitepaper that paints the picture of our road ahead.
