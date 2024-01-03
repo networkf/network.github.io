@@ -7,7 +7,6 @@ layout: default
 ---
 <b><font size="5">Contact Us</font></b>
 <br>
-<br>
 
 Generally you can reach one of us through any of our [community channels](/community) or alternatively by email. 
 
