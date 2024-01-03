@@ -16,6 +16,8 @@ Our vision for the Network is to serve as a portal to the realm of dreams. The N
 <br>
 This is the foundation website of Network. Our network is comprised of the decentralized foundation that supports Network, the company developing the interface to the dreamworld.
 
+<br>
+
 **Network Mission**
 <br>
 
