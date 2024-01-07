@@ -18,19 +18,17 @@ Please feel free to browse through our channels. Some are more active than other
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Discord Server</a>
 <br>
-<a href="https://substack.com/@network" target="_blank">Substack Newsletter</a>
+<a href="https://substack.com/@netxork" target="_blank">Substack Newsletter</a>
 <br>
-<a href="https://medium.com/@network" target="_blank">Medium Blog</a>
+<a href="https://medium.com/@netxork" target="_blank">Medium Blog</a>
 <br>
 <a href="https://warpcast.com/netxork" target="_blank">Farcaster</a>
 <br>
 <a href="https://reddit.com/r/netxork" target="_blank">Reddit Subreddit</a>
 <br>
-<a href="https://network.flarum.cloud" target="_blank">Forum</a>
-<br>
 <a href="https://youtube.com/@netxork" target="_blank">YouTube Channel</a>
 <br>
-<a href="https://paragraph.xyz/@network" target="_blank">Paragraph Blog</a>
+<a href="https://paragraph.xyz/@netxork" target="_blank">Paragraph Blog</a>
 <br>
 
 <b><font size="4">Secondary Network Channels:</font></b>
@@ -56,13 +54,22 @@ Please feel free to browse through our channels. Some are more active than other
 
 <a href="https://x.com/networkfdn" target="_blank">X</a>
 <br>
-<a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
+<a href="https://network.flarum.cloud" target="_blank">Forum</a>
 <br>
-<a href="https://youtube.com/@networkfdn" target="_blank">YouTube Channel</a>
+<a href="https://medium.com/@network" target="_blank">Medium</a>
+<br>
+<a href="https://paragraph.xyz/@network" target="_blank">Paragraph Blog</a>
+<br>
+<a href="https://networkfoundaton.slack.com" target="_blank">Slack</a>
+<br>
+<a href="https://substack.com/@network" target="_blank">Substack</a>
+<br>
+<a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
 <br>
 <a href="https://t.me/networkfdn" target="_blank">Telegram Channel</a>
 <br>
-<a href="https://networkfoundaton.slack.com" target="_blank">Network Foundation Slack</a>
+<a href="https://youtube.com/@networkfdn" target="_blank">YouTube Channel</a>
+<br>
 
 
 
