@@ -28,7 +28,7 @@ Please feel free to browse through our channels. Some are more active than other
 <br>
 <a href="https://network.flarum.cloud" target="_blank">Forum</a>
 <br>
-<a href="https://www.youtube.com/@netxork" target="_blank">YouTube Channel</a>
+<a href="https://youtube.com/@netxork" target="_blank">YouTube Channel</a>
 <br>
 <a href="https://paragraph.xyz/@network" target="_blank">Paragraph Blog</a>
 <br>
