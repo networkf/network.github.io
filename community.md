@@ -18,9 +18,9 @@ Please feel free to browse through our channels. Some are more active than other
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Discord Server</a>
 <br>
-<a href="https://network.substack.com" target="_blank">Substack Newsletter</a>
+<a href="https://substack.com/@network" target="_blank">Substack Newsletter</a>
 <br>
-<a href="https://network.medium.com" target="_blank">Medium Blog</a>
+<a href="https://medium.com/@network" target="_blank">Medium Blog</a>
 <br>
 <a href="https://warpcast.com/netxork" target="_blank">Farcaster</a>
 <br>
