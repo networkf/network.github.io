@@ -15,7 +15,7 @@ A list of groups, forum, communities for lucid dreaming.
 <br>
 A list of researchers exploring the field of dreams in various ways.
 
-<a href="https://research.network.foundation/dreamscience">Dream Scientific Articles</a>
+<a href="https://research.network.foundation/dreamscience">Dream Science</a>
 <br>
 A list of published dream science articles.
 
