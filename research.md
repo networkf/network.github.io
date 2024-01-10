@@ -23,6 +23,3 @@ A list of published dream science articles.
 <br>
 A list of lucid dreaming tools.
 
-<a href="https://network.foundation/network.pdf">Whitepaper</a>
-<br>
-The whitepaper that paints the picture of our road ahead.
