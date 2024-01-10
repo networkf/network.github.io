@@ -11,13 +11,9 @@ layout: default
 <br>
 A list of books about lucid dreaming / dream yoga.
 
-<a href="https://research.network.foundation/dreamcommunities">Dream Communities</a>
-<br>
-A list of lucid dreaming communities. 
-
 <a href="https://research.network.foundation/dreamgroups">Dream Groups</a>
 <br>
-A list of working groups for lucid dream research / science.
+A list of groups working in the field of dream exploration.
 
 <a href="https://research.network.foundation/dreamresearchers">Dream Researchers</a>
 <br>
