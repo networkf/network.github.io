@@ -15,6 +15,10 @@ A list of books about lucid dreaming / dream yoga.
 <br>
 A list of groups working in the field of dream exploration.
 
+[Dream Papers](https://www.zotero.org/linkdaniel/collections/4SDA6EXF)
+<br>
+A selection of scientific papers on the topic of dreams.
+
 <a href="https://research.network.foundation/dreamresearchers">Dream Researchers</a>
 <br>
 A list of researchers exploring the field of dreams in various ways.
