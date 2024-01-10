@@ -7,6 +7,10 @@ layout: default
 ---
 <b><font size="5">Network Research</font></b>
 
+<a href="https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams">Dream Book</a>
+<br>
+A list of books about lucid dreaming / dream yoga.
+
 <a href="https://research.network.foundation/dreamgroups">Dream Groups</a>
 <br>
 A list of groups, forum, communities for lucid dreaming. 
