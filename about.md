@@ -9,7 +9,7 @@ layout: default
 <b><font size="5">About</font></b>
 <br>
 <br>
-**Welcome to the Network**
+**Welcome to Network**
 <br>
 <br>
 Network’s mission is to revolutionize dream exploration technology and make tools for individuals to free themselves from their mind. Our goal is to accelerate the advent of the dreamworld and empower individuals by creating a new paradigm for mental mobility.
