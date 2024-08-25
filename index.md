@@ -6,6 +6,12 @@ layout: default
 </head>
 ---
 
+[Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
+<br>
+
+[Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
+<br>
+
 [About](/about)
 <br>
 More about Network.
