@@ -8,8 +8,6 @@ layout: default
 
 <h2>Network Whitepaper | Part 1 — Abstract & Introduction</h2>
 
-</br>
-
 By Link Daniel
 
 <i>Original Publication Date: January 21, 2021</i>
