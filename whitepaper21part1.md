@@ -38,7 +38,7 @@ Despite the vast progress we have made in history so far, this frontier is waiti
 
 The purpose of this paper is to create a map for virtual dreams and the decentralized brain computer protocol. We will release other papers in the future that will share implementations and frameworks of what this paper only outlines in theory. There are many pieces to this puzzle and as we progress we will provide more answers. Ultimately, we need to demonstrate that we can build the network not only in theory, but in reality.
 
-Full paper originally hosted at: https://network.com.de/network
+Full paper originally hosted at: https://network.com.de/network.pdf
 
 Proof of publication on Arweave: https://app.ardrive.io/#/file/23d9e668-d48d-4a38-bce8-30b064001668/view
 
