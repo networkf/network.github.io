@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h3>Network Whitepaper | Part 1 — Abstract & Introduction</h3>
+<h2>Network Whitepaper | Part 1 — Abstract & Introduction</h2>
 
 </br>
 
@@ -14,10 +14,12 @@ By Link Daniel
 
 Original Publication Date: January 21, 2021
 
-Abstract
+<h3>Abstract</h3>
+
 Adecentralized brain computer network would allow anyone in the world to participate in exploring the frontier of the brain while creating a strong forcing function to accelerate the number of neurons we can currently interface with. A network of peer-to-peer brain computers would empower individuals to own the data that would flow between brains and computers. By creating a network of open, permissionless protocols for brain computers, a diverse set of stakeholders will govern and guide its future. Virtual dreams as a novel medium could become an alternative reality to explore the nature of reality and accelerate progress in the mind sciences. Other brain computer applications could be developed as tools for individuals to heal and liberate themselves and others.
 
-Introduction
+<h3>Introduction</h3>
+
 When Satoshi Nakamoto published the Bitcoin whitepaper in 2008, presenting a solution backed by code to an old computer science problem, he was able to create the foundation for an alternative system to the legacy financial system. Thanks to cryptographic breakthroughs that have been made over the last few decades, the leaders who built on Satoshi’s shoulders continue and expand upon her legacy by building an alternative, decentralized financial network. In a similar vein, there have been tremendous scientific breakthroughs in the world of neuroscience. We are witnessing the birth of brain computer interfaces and the beginnings of the brain as a frontier. The brain’s great frontier is itself. We can now take steps to catalyze this neuro revolution by creating an alternative system which will accelerate our understanding of the brain and allow us to answer long-standing questions about consciousness itself.
 
 In order to ensure that the light of consciousness stays on and the journey of humanity continues with its sense of exploration, curiosity and wonder as it has for the past centuries, we must build tools that allow us to journey inward. We will not solve some of our most important existential problems until we are able to come together and coordinate more effectively. In order to prevent historical loops of self-destruction, we need to increase our collective levels of consciousness. We must explore the true nature of reality and create tools to liberate ourselves from the infinite loops that run our lives.
