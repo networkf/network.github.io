@@ -9,7 +9,7 @@ layout: default
 [Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
 <br>
 
-[Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
+[Network Whitepaper | Part 2 — State of the World](/whitepaper21part2)
 <br>
 
 [About](/about)
