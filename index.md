@@ -47,9 +47,3 @@ layout: default
 [Network Whitepaper | References and Further Reading](/whitepaper21references)
 <br>
 
-Network resources.
-
-[Token](/token)
-<br>
-The network token structure.
-
