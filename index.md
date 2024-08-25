@@ -6,11 +6,36 @@ layout: default
 </head>
 ---
 
+<br>
+
 [Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
 <br>
 
 [Network Whitepaper | Part 2 — State of the World](/whitepaper21part2)
 <br>
+
+[Network Whitepaper | Part 3 — A New Telescope](/whitepaper21part3)
+<br>
+
+[Network Whitepaper | Part 4 — The Neuro Revolution](/whitepaper21part4)
+<br>
+
+[Network Whitepaper | Part 5 — A History of Brain Computers](/whitepaper21part5)
+<br>
+
+[Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
+<br>
+
+[Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
+<br>
+
+[Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
+<br>
+
+[Network Whitepaper | Part 1 — Abstract & Introduction](/whitepaper21part1)
+<br>
+
+
 
 [About](/about)
 <br>
