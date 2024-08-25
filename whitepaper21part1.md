@@ -12,7 +12,7 @@ layout: default
 
 By Link Daniel
 
-Original Publication Date: January 21, 2021
+<i>Original Publication Date: January 21, 2021</i>
 
 <h3>Abstract</h3>
 
