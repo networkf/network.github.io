@@ -4,8 +4,9 @@ layout: default
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
+---
 
-Network Whitepaper | Part 1 — Abstract & Introduction
+<h1>Network Whitepaper | Part 1 — Abstract & Introduction</h1>
 
 By Link Daniel
 
