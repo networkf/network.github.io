@@ -5,6 +5,11 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
+<b><font size="5">Network Nodes</font></b>
+
+We list any type of connection to Network.
+
+
 <b><font size="5">Network Connections</font></b>
 <br>
 We list connections we have made with other groups, programs Network has been part of, Network's affiliations, etc. 
