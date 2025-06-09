@@ -30,13 +30,14 @@ Structure.
 <br>
 Ecosystem.
 
+[Notes](/notes)
+<br>
+Updates.
+
 [Stakeholder](/stakeholder)
 <br>
 Relations.
 
-[Updates](/updates)
-<br>
-Announcements.
 
 
 
