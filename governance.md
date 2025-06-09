@@ -7,3 +7,6 @@ layout: default
 ---
 ## Network Governance
 Learn about the different aspects of our governance.
+
+[Proof of Network](/proofofnetwork).
+
