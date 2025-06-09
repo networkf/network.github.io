@@ -16,3 +16,7 @@ Network’s mission is to revolutionize dream exploration technology and make to
 <br>
 <br>
 This is the foundation website of Network. Our network is comprised of the decentralized foundation that supports Network, the company developing the interface to the dreamworld.
+
+**Contact**
+
+[Contact Us](/contact).
