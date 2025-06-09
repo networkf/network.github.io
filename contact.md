@@ -10,19 +10,3 @@ layout: default
 
 Generally you can reach one of us through any of our [community channels](/community) or alternatively by email. 
 
-**Foundation related:**
-<br>
-info [at] network.foundation
-
-**Startup related:**
-<br>
-info [at] netxork.com
-
-
-**Worldwide Offices**
-
-Wyoming, United States
-<br>
-Dusseldorf, Germany
-<br>
-Switzerland
