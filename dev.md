@@ -8,19 +8,7 @@ layout: default
 <b><font size="5">Network Developments</font></b>
 <br>
 <br>
-Track the development and progress of the network.
-
-[Network Roadmap](/roadmap)
-<br>
-Ongoing roadmap of goals that are in development and in progress. 
-<br>
-<br>
-[Network Dashboard](/dashboard)
-<br>
-Network activity across the board.
-<br>
-<br>
-[Network Updates](/updates)
+Track the developments and progress of the network.
 
 [Numenor](https://numenor.li)
 <br>
