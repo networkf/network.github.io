@@ -8,5 +8,5 @@ layout: default
 <b><font size="5">Contact Us</font></b>
 <br>
 
-Generally you can reach one of us through any of our [community channels](/community) or alternatively by email. 
+Generally you can reach one of us through any of our [channels](/channels).
 
