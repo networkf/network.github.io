@@ -10,15 +10,24 @@ layout: default
 
 [About](/about)
 <br>
+Network.
 
 [Channels](/channels)
 <br>
+Media.
 
 [Developments](/developments)
 <br>
+Progress.
 
 [Foundation](/foundation)
 <br>
+Structure.
+
+[Research](/research)
+<br>
+Fields.
+
 
 
 
