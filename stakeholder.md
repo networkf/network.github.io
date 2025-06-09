@@ -12,9 +12,7 @@ layout: default
 
 [View Latest Pitchdeck](/deck)
 
-<br>
-
-[View Network Website](/x.network.foundation)
+[View Network Website](https://x.network.foundation)
 
 
 <b><font size="5">Proof of Network</font></b>
