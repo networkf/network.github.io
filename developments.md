@@ -5,7 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-<b><font size="5">Network Development Board</font></b>
+<b><font size="5">Network Developments Board</font></b>
 <br>
 <br>
 Track the development and progress of the network.
