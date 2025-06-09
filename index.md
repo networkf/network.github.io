@@ -30,7 +30,7 @@ Structure.
 <br>
 Fields.
 
-[Stakeholders](/stakeholders)
+[Stakeholder](/stakeholder)
 <br>
 Relations.
 
