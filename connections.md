@@ -5,10 +5,6 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-<b><font size="5">Network Nodes</font></b>
-
-We list any type of connection to Network.
-
 
 <b><font size="5">Network Connections</font></b>
 <br>
@@ -26,4 +22,3 @@ Network has been informally part of different gatherings and events. Harvard Alu
 _2021_
 <br>
 Network was part of Chainlink's first Startup with Chainlink cohort. Startup with Chainlink was designed to be the most founder-friendly program in the blockchain industry. The program’s primary goal is to provide founders with the tools they need to successfully realize their vision.
-
