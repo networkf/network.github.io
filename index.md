@@ -22,10 +22,6 @@ Progress.
 <br>
 Board.
 
-[Foundation](/foundation)
-<br>
-Structure.
-
 [Nodes](/nodes)
 <br>
 Ecosystem.
@@ -37,6 +33,10 @@ Updates.
 [Stakeholder](/stakeholder)
 <br>
 Relations.
+
+[Structure](/structure)
+<br>
+System.
 
 
 
