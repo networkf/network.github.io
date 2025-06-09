@@ -8,9 +8,6 @@ layout: default
 <b><font size="5">Proof of Network</font></b>
 <br>
 <br>
-_Please note as of December 2023 Proof of Network has not been launched yet due to unclear US regulatory environment._
-<br>
-<br>
 Proof of Network is our mechanism by which we plan to distribute the network token to the public. The mechanism is as follows:
 
 1. The network broadcasts specific problems to the community with number of tokens if problem solved.
