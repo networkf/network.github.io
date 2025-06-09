@@ -5,11 +5,13 @@ layout: default
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 ---
-<b><font size="5">Network Foundation</font></b>
+<b><font size="5">Network Structure</font></b>
 
-The purpose of the Network Foundation is to serve as an onchain organization embedded in international law for the mission of the network.
+**Network Foundation**
+
+The purpose of the Network Foundation is to serve as an onchain organization governed by N tokenholders embedded in international law for the mission of the network.
 
 
-<b><font size="5">Network Company Overview</font></b>
+**Network Company**
 
-The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. The company is privately held. Headquartered in Wyoming, United States. Operations globally and remote. Legal name: Network.
+The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. The company is privately held. Headquartered in Wyoming, United States. Legal name: Network. Operations globally and remote. 
