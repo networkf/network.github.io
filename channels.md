@@ -10,7 +10,6 @@ layout: default
 <br>
 Please feel free to browse through our channels. Some are more active than others.
 
-<br>
 <a href="https://x.com/netxork" target="_blank">X</a>
 <br>
 <a href="https://t.me/networkfoundation" target="_blank">Telegram Group</a>
