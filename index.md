@@ -26,14 +26,13 @@ Progress.
 <br>
 Structure.
 
-[Locations](/locations)
-<br>
-Representations.
-
 [Research](/research)
 <br>
 Fields.
 
+[Stakeholders](/stakeholders)
+<br>
+Relations.
 
 
 
