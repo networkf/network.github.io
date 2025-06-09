@@ -6,13 +6,13 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 1 — Abstract & Introduction</h2>
+<b>Network Whitepaper | Part 1 — Abstract & Introduction</b>
 
 By Link Daniel
 
 <i>Original Publication Date: January 21, 2021</i>
 
-<h3>Abstract</h3>
+<b>Abstract</b>
 
 Adecentralized brain computer network would allow anyone in the world to participate in exploring the frontier of the brain while creating a strong forcing function to accelerate the number of neurons we can currently interface with. A network of peer-to-peer brain computers would empower individuals to own the data that would flow between brains and computers. By creating a network of open, permissionless protocols for brain computers, a diverse set of stakeholders will govern and guide its future. Virtual dreams as a novel medium could become an alternative reality to explore the nature of reality and accelerate progress in the mind sciences. Other brain computer applications could be developed as tools for individuals to heal and liberate themselves and others.
 
