@@ -14,6 +14,10 @@ Network.
 <br>
 Media.
 
+[Core](/core)
+<br>
+Nodes.
+
 [Developments](/developments)
 <br>
 Progress.
@@ -21,6 +25,10 @@ Progress.
 [Foundation](/foundation)
 <br>
 Structure.
+
+[Locations](/locations)
+<br>
+Representations.
 
 [Research](/research)
 <br>
