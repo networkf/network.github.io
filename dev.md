@@ -22,7 +22,7 @@ Network activity across the board.
 <br>
 [Network Updates](/updates)
 
-[Numenor](/https://numenor.li)
+[Numenor](https://numenor.li)
 <br>
 An onchain fund to support Network's operations.
 <br>
