@@ -14,7 +14,7 @@ Network.
 <br>
 Media.
 
-[Developments](/developments)
+[Developments](/dev)
 <br>
 Progress.
 
@@ -30,13 +30,13 @@ Structure.
 <br>
 Ecosystem.
 
-[Research](/research)
-<br>
-Fields.
-
 [Stakeholder](/stakeholder)
 <br>
 Relations.
+
+[Updates](/updates)
+<br>
+Announcements.
 
 
 
