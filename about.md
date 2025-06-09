@@ -12,10 +12,8 @@ layout: default
 **Welcome to Network**
 <br>
 <br>
-Network’s mission is to revolutionize dream exploration technology and make tools for individuals to free themselves from their mind. Our goal is to accelerate the advent of the dreamworld and empower individuals by creating a new paradigm for mental mobility.
+Network is an internet native, onchain organization dedicated to support the emergence of tools and technologies for the frontier of the mind. We are building a network to unlock new types of human perception and creating an interface for the mind to explore the nature of reality. Our goal is to revolutionize dream exploration technology, make tools for individuals to free themselves and empower them by creating a new paradigm for mental mobility.
 <br>
-<br>
-This is the foundation website of Network. Our network is comprised of the decentralized foundation that supports Network, the company developing the interface to the dreamworld.
 
 **Contact**
 
