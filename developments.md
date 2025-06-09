@@ -21,6 +21,9 @@ Network activity across the board.
 <br>
 <br>
 
+[Network Updates](/updates)
+
+
 
 
 
