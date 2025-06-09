@@ -6,8 +6,6 @@ layout: default
 </head>
 ---
 
-<br>
-
 [About](/about)
 <br>
 Network.
