@@ -18,13 +18,17 @@ Media.
 <br>
 Progress.
 
+[Governance](/governance)
+<br>
+Board.
+
 [Foundation](/foundation)
 <br>
 Structure.
 
 [Nodes](/nodes)
 <br>
-Core.
+Ecosystem.
 
 [Research](/research)
 <br>
