@@ -18,7 +18,7 @@ Media.
 <br>
 Progress.
 
-[Governance](/governance)
+[Governance](/gov)
 <br>
 Board.
 
