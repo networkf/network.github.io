@@ -12,17 +12,24 @@ Please feel free to browse through our channels:
 
 <a href="https://x.com/netxork" target="_blank">X</a>
 <br>
+<br>
 <a href="https://t.me/networkfoundation" target="_blank">Telegram</a>
+<br>
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Discord</a>
 <br>
+<br>
 <a href="https://network.substack.com/" target="_blank">Substack</a>
+<br>
 <br>
 <a href="https://medium.com/@network" target="_blank">Medium</a>
 <br>
+<br>
 <a href="https://farcaster.xyz/netxork" target="_blank">Farcaster</a>
 <br>
+<br>
 <a href="https://reddit.com/r/netxork" target="_blank">Reddit</a>
+<br>
 <br>
 <a href="https://youtube.com/@netxork" target="_blank">YouTube</a>
 <br>
