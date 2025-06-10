@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 2 — State of the World</h2>
+<b><font size="5">Network Whitepaper | Part 2 — State of the World</font></b>
 
 By Link Daniel
 
