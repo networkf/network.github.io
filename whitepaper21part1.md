@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 1 — Abstract & Introduction</h2>
+<b><font size="5">Network Whitepaper | Part 1 — Abstract & Introduction</font></b>
 
 By Link Daniel
 
