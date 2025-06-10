@@ -32,7 +32,7 @@ Updates.
 
 [Research](/research)
 <br>
-Fields.
+Projects.
 
 [Stakeholder](/stakeholders)
 <br>
