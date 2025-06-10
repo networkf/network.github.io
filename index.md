@@ -30,7 +30,7 @@ Ecosystem.
 <br>
 Updates.
 
-[Stakeholder](/stakeholder)
+[Stakeholder](/stakeholders)
 <br>
 Relations.
 
