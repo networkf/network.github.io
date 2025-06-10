@@ -10,13 +10,18 @@ layout: default
 <br>
 Please feel free to browse through our channels: 
 
+<br>
+<br>
+<b><font size="5">Network Media</font></b>
+
+
 <a href="https://x.com/netxork" target="_blank">𝕏</a>
 <br>
 <br>
-<a href="https://network.substack.com/" target="_blank">Substack</a>
-<br>
-<br>
 <a href="https://medium.com/@network" target="_blank">Medium</a>
+<br>
+<br>
+<a href="https://network.substack.com/" target="_blank">Substack</a>
 <br>
 <br>
 <a href="https://farcaster.xyz/netxork" target="_blank">Farcaster</a>
