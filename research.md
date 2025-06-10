@@ -9,4 +9,5 @@ layout: default
 
 [Dream Science](/dreamscience)
 <br>
-
+[Network Research Forum](https://network.flarum.cloud)
+<br>
