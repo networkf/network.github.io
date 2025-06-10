@@ -10,6 +10,10 @@ layout: default
 
 Learn about the different aspects of our governance.
 
+[Network Embassy](/embassy)
+
+[Network History](/history)
+
 [Network Metrics](/metrics)
 
 [Network Structure](/structure)
