@@ -6,8 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 12 — Principles & Conclusion
-</h2>
+<b><font size="5">Network Whitepaper | Part 12 — Principles & Conclusion</font></b>
 
 By Link Daniel
 
