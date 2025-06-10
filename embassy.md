@@ -7,13 +7,15 @@ layout: default
 ---
 
 ## Network Embassy
-<a href="https://embassy.network.foundation" target="_blank">Network Embassy</a>
+
+<a href="https://embassy.network.com.de" target="_blank">Network Embassy</a>
 <br>
-<a href="https://passport.network.foundation" target="_blank">Network Passport</a>
 <br>
-<a href="https://wallet.network.foundation" target="_blank">Network Wallet</a>
+<a href="https://passport.network.com.de" target="_blank">Network Passport</a>
 <br>
-<a href="https://history.network.foundation" target="_blank">Network History</a>
+<br>
+<a href="https://wallet.network.com.de" target="_blank">Network Wallet</a>
+<br>
 
 
 
