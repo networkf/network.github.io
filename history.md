@@ -12,7 +12,7 @@ layout: default
 
 **July 2021**
 <br>
-Network in Wyoming, United States is established to support the network.
+Network in Wyoming, US is established to support the network.
 
 **May 1, 2021**
 <br>
