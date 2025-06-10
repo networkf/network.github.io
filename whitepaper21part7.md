@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 7 — Open Neuro Protocols</h2>
+<b><font size="5">Network Whitepaper | Part 7 — Open Neuro Protocols</font></b>
 
 By Link Daniel
 
