@@ -11,7 +11,7 @@ layout: default
 Please feel free to browse through our channels: 
 
 <br>
-<b><font size="5">Network Media</font></b>
+<b><font size="4">Network Media</font></b>
 <br>
 <br>
 
@@ -34,7 +34,7 @@ Please feel free to browse through our channels:
 <br>
 <br>
 
-<b><font size="5">Network Community</font></b>
+<b><font size="4">Network Community</font></b>
 
 <a href="https://t.me/networkfoundation" target="_blank">Telegram</a>
 <br>
