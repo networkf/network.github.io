@@ -9,6 +9,6 @@ layout: default
 <b><font size="5">Notes</font></b>
 <br>
 
-Most public updates we will post on [𝕏](https://x.com/netxork). We may highlight important notes below:
+We will post public updates on [𝕏](https://x.com/netxork). We may highlight important notes below:
 
 [Network Whitepaper 2021](/whitepaper21)
