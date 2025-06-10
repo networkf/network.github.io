@@ -30,13 +30,13 @@ Ecosystem.
 <br>
 Updates.
 
+[Research](/research)
+<br>
+Arts & Sciences.
+
 [Stakeholder](/stakeholders)
 <br>
 Relations.
-
-[Structure](/structure)
-<br>
-System.
 
 
 
