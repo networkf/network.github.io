@@ -12,28 +12,30 @@ Please feel free to browse through our channels:
 
 <b><font size="4">Network Media</font></b>
 
-<a href="https://x.com/netxork" target="_blank">𝕏</a>
+<a href="https://x.com/netxork">𝕏</a>
 <br>
-<a href="https://medium.com/@network" target="_blank">Medium</a>
+<a href="https://medium.com/@network">Medium</a>
 <br>
-<a href="https://network.substack.com/" target="_blank">Substack</a>
+<a href="https://network.substack.com/">Substack</a>
 <br>
-<a href="https://farcaster.xyz/netxork" target="_blank">Farcaster</a>
+<a href="https://farcaster.xyz/netxork">Farcaster</a>
 <br>
-<a href="https://youtube.com/@netxork" target="_blank">YouTube</a>
+<a href="https://youtube.com/@netxork">YouTube</a>
 <br>
-<a href="https://instagram.com/netxork" target="_blank">Instagram</a>
+<a href="https://instagram.com/netxork">Instagram</a>
 <br>
 
 <b><font size="4">Network Community</font></b>
 
-<a href="https://t.me/networkfoundation" target="_blank">Telegram</a>
+<a href="https://t.me/networkfoundation">Telegram</a>
 <br>
-<a href="https://discord.gg/sCtK6YK" target="_blank">Discord</a>
+<a href="https://discord.gg/sCtK6YK">Discord</a>
 <br>
-<a href="https://network.flarum.cloud" target="_blank">Flarum</a>
+<a href="https://x.com/i/communities/1725849980240384096">X Community</a>
 <br>
-<a href="https://reddit.com/r/netxork" target="_blank">Reddit</a>
+<a href="https://network.flarum.cloud">Flarum</a>
+<br>
+<a href="https://reddit.com/r/netxork">Reddit</a>
 <br>
 
 
