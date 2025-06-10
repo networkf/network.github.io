@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 10 — Virtual Dreams</h2>
+<b><font size="5">Network Whitepaper | Part 10 — Virtual Dreams</font></b>
 
 By Link Daniel
 
