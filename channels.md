@@ -11,9 +11,8 @@ layout: default
 Please feel free to browse through our channels: 
 
 <br>
-<br>
 <b><font size="5">Network Media</font></b>
-
+<br>
 
 <a href="https://x.com/netxork" target="_blank">𝕏</a>
 <br>
