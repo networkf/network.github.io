@@ -8,7 +8,7 @@ layout: default
 <b><font size="5">Network Channels</font></b>
 <br>
 <br>
-Please feel free to browse through our channels. Some are more active than others.
+Please feel free to browse through our channels: 
 
 <a href="https://x.com/netxork" target="_blank">X</a>
 <br>
