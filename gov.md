@@ -8,7 +8,7 @@ layout: default
 
 <b><font size="5">Network Governance</font></b>
 
-Learn about the different aspects of our governance.
+Dive into the different aspects of our governance:
 
 [Network Embassy](/embassy)
 
