@@ -14,9 +14,9 @@ Network.
 <br>
 Media.
 
-[Developments](/dev)
+[Explorations](/explorations)
 <br>
-Progress.
+Projects.
 
 [Governance](/gov)
 <br>
