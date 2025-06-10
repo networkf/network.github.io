@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 3 — A New Telescope</h2>
+<b><font size="5">Network Whitepaper | Part 3 — A New Telescope</font></b>
 
 By Link Daniel
 
