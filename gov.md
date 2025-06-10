@@ -10,7 +10,7 @@ layout: default
 
 Learn about the different aspects of our governance.
 
-[Network Dashboard](/dashboard)
+[Network Metrics](/metrics)
 
 [Network Structure](/structure)
 
