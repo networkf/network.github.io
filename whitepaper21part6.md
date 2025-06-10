@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 6 — The State of Brain Computers</h2>
+<b><font size="5">Network Whitepaper | Part 6 — The State of Brain Computers</font></b>
 
 By Link Daniel
 
