@@ -17,4 +17,4 @@ Network is an internet native, onchain organization dedicated to support the eme
 
 **Contact**
 
-[Contact Us](/contact).
+[Channels](/channels).
