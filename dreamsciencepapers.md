@@ -9,4 +9,4 @@ layout: default
 <b><font size="5">Dream Research Papers</font></b>
 <br>
 <br>
-[View List of Dream Research Papers](https://www.zotero.org/linkdaniel/collections/4SDA6EXF/items/CKR89TYY/item-list)
+[View List of Dream Science Papers](https://www.zotero.org/linkdaniel/collections/4SDA6EXF/items/CKR89TYY/item-list)
