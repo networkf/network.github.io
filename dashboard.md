@@ -8,23 +8,22 @@ layout: default
 
 <b><font size="5">Network Dashboard</font></b>
 <br>
-_Last update: December 31, 2023_
+_Last update: June 9, 2025_
 <br>
 
 Number of Active Tools: 0
 <br>
 Number of Active Users: 0
 <br>
-Community Members: ~ 401
+Community Members: ~ 500
 <br>
-Capital Raised: $0
+Years of Research: 7
 <br>
-Years of Research: 5
+Hours of Research: 15,000+ 
 <br>
-Hours of Research: 10,400+ 
+Years Since Company Established: 5
 <br>
-Years Since Company Established: 3
+Number of Failed Experiments: 400
 <br>
-Number of Failed Experiments: 260
 Total Revenue to Date: 0
 <br>
