@@ -10,7 +10,7 @@ layout: default
 <br>
 <br>
 
-[View Latest Pitchdeck](/deck)
+[View Latest Pitch Deck](/deck)
 
 [Read Network Whitepaper](https://network.foundation/network.pdf)
 
