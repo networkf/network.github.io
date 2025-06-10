@@ -11,5 +11,4 @@ layout: default
 
 Most public updates we will post on [𝕏](https://x.com/netxork). We may highlight important notes below:
 
-
-
+[Network Whitepaper 2021](/whitepaper21)
