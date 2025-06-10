@@ -12,8 +12,12 @@ Learn about the different aspects of our governance.
 
 [Network Dashboard](/dashboard)
 
+[Network Structure](/structure)
+
 [Proof of Network](/proofofnetwork).
 
 [Network Onchain Token](https://etherscan.io/token/0x7b5726F8261705f6B9e60094ef4427f8e2f29a44)
+
+
 
 
