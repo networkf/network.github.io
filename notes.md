@@ -9,6 +9,5 @@ layout: default
 <b><font size="5">Notes</font></b>
 <br>
 
-[Dream Science](/dreamscience)
-<br>
+
 
