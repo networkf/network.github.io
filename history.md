@@ -10,19 +10,24 @@ layout: default
 <br>
 <br>
 
-June 2021
+**June 2021**
+<br>
 Network in Wyoming, US dedicates itself to support the network.
 
-May 1, 2021
+**May 1, 2021**
+<br>
 The network token is released
 https://etherscan.io/tx/0x5a2d2d385e7210e9df6609e03eaf6e399ad9a037e27811c7c5687905036c659b
 
-February 2021
+**February 2021**
+<br>
 The network community is launched.
 
-January 2021
+**January 2021**
+<br>
 Link Daniel becomes the first investor of Network.
 
-January 21, 2021
+**January 21, 2021**
+<br>
 The network whitepaper is published.
 https://network.foundation/network.pdf 
