@@ -8,7 +8,7 @@ layout: default
 <b><font size="5">Network Explorations</font></b>
 <br>
 <br>
-Follow the different kind of projects that Network is actively involved in:
+Follow the different kinds of projects that Network is actively involved in:
 
 [Numenor](https://numenor.li)
 <br>
