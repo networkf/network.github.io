@@ -9,9 +9,9 @@ layout: default
 
 **Network Foundation**
 <br>
-The purpose of the Network Foundation is to serve as an onchain organization governed by N tokenholders embedded in international law for the mission of the network.
+The purpose of the Network Foundation is to serve as an onchain organization governed by N tokenholders embedded in international law to advance the frontier of the mind.
 
 
 **Network Company**
 <br>
-The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. The company is privately held. Headquartered in Wyoming, United States. Legal name: Network. Operations globally. 
+The goal of the company is to build consumer facing tools and technology that align with Network's mission. The company is privately held. Headquartered in Wyoming, United States. Legal name: Network. Operations globally. 
