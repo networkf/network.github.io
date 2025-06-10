@@ -14,4 +14,6 @@ We list any type of connection to Network:
 
 [Network Connections](/connections)
 
+[Network Ecosystem](https://docs.google.com/spreadsheets/d/1wirvKQN64xqFJktqDskG7ODcsmbhplpCrJ5Khj4T-Jc)
+
 
