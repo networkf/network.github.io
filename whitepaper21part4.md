@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 4 — The Neuro Revolution</h2>
+<b><font size="5">Network Whitepaper | Part 4 — The Neuro Revolution</font></b>
 
 By Link Daniel
 
