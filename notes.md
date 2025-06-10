@@ -8,3 +8,7 @@ layout: default
 
 <b><font size="5">Notes</font></b>
 <br>
+
+[Dream Research Papers](/dreamresearchpapers)
+<br>
+
