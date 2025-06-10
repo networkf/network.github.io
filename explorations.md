@@ -1,0 +1,19 @@
+---
+layout: default
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
+---
+<b><font size="5">Network Explorations</font></b>
+<br>
+<br>
+Follow the different kind of projects that Network is actively involved in:
+
+[Numenor](https://numenor.li)
+<br>
+An onchain fund to support Network's operations.
+<br>
+
+
+
