@@ -20,7 +20,7 @@ Developments.
 
 [Governance](/gov)
 <br>
-Board.
+Structure.
 
 [Nodes](/nodes)
 <br>
