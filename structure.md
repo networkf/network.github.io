@@ -14,4 +14,4 @@ The purpose of the Network Foundation is to serve as an onchain organization gov
 
 **Network Company**
 <br>
-The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. The company is privately held. Headquartered in Wyoming, United States. Legal name: Network. Operations globally and remote. 
+The goal of the company is to release consumer-oriented tools and technology that align with Network's mission. The company is privately held. Headquartered in Wyoming, United States. Legal name: Network. Operations globally. 
