@@ -16,7 +16,7 @@ Media.
 
 [Explorations](/explorations)
 <br>
-Projects.
+Developments.
 
 [Governance](/gov)
 <br>
