@@ -9,5 +9,7 @@ layout: default
 <b><font size="5">Notes</font></b>
 <br>
 
+Most public updates we will post on [𝕏](https://x.com/netxork). We may highlight important notes below:
+
 
 
