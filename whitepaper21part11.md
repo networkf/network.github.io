@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 11 — Brain Computer Applications</h2>
+<b><font size="5">Network Whitepaper | Part 11 — Brain Computer Applications</font></b>
 
 By Link Daniel
 
