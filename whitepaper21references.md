@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | References and Further Reading</h2>
+<b><font size="5">Network Whitepaper | References and Further Reading</font></b>
 
 By Link Daniel
 
