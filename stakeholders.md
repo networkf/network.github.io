@@ -16,5 +16,5 @@ layout: default
 
 [View Network Website](https://x.network.foundation)
 
-[Watch Network Presentations}(https://www.youtube.com/playlist?list=PLiZCJRKsehdt4CW0NCCFrNyV42HUH4upW)
+[Watch Network Presentations](https://www.youtube.com/playlist?list=PLiZCJRKsehdt4CW0NCCFrNyV42HUH4upW)
 
