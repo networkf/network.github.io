@@ -19,4 +19,4 @@ You may also visit our [index page](https://index.network.foundation) for a more
 
 **Contact**
 
-[Channels](/channels).
+[Via Channels](/channels).
