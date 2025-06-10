@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 9 — Token Economic Model</h2>
+<b><font size="5">Network Whitepaper | Part 9 — Token Economic Model</font></b>
 
 By Link Daniel
 
