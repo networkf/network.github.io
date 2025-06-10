@@ -31,7 +31,7 @@ Please feel free to browse through our channels:
 <br>
 <a href="https://discord.gg/sCtK6YK" target="_blank">Discord</a>
 <br>
-<a href="https://network.flarum.cloud" target="_blank">Forum</a>
+<a href="https://network.flarum.cloud" target="_blank">Flarum</a>
 <br>
 <a href="https://reddit.com/r/netxork" target="_blank">Reddit</a>
 <br>
