@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<h2>Network Whitepaper | Part 8 — Masterplan</h2>
+<b><font size="5">Network Whitepaper | Part 8 — Masterplan</font></b>
 
 By Link Daniel
 
