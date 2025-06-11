@@ -15,7 +15,7 @@ Follow the different kinds of projects that Network is actively involved in:
 The onchain internet native organization supporting Network's mission.
 <br>
 
-Network
+[Network](https://network.com.de)
 <br>
 The company based in Wyoming, United States.
 <br>
