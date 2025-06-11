@@ -10,9 +10,14 @@ layout: default
 <br>
 Follow the different kinds of projects that Network is actively involved in:
 
-[Network](https://network.foundation)
+[Network Foundation](https://network.foundation)
 <br>
-The foundation for Network.
+The onchain internet native organization supporting Network's mission.
+<br>
+
+Network
+<br>
+The company based in Wyoming, United States.
 <br>
 
 [Numenor](https://numenor.li)
