@@ -10,6 +10,11 @@ layout: default
 <br>
 Follow the different kinds of projects that Network is actively involved in:
 
+[Network](https://network.foundation)
+<br>
+The foundation for Network.
+<br>
+
 [Numenor](https://numenor.li)
 <br>
 An onchain fund to support Network's operations.
