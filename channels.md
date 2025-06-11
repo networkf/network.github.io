@@ -12,17 +12,13 @@ Please feel free to browse through our channels:
 
 <b><font size="4">Network Media</font></b>
 
-<a href="https://x.com/netxork">𝕏</a>
+<a href="https://x.com/netw_ork">𝕏</a>
 <br>
 <a href="https://medium.com/@network">Medium</a>
 <br>
 <a href="https://network.substack.com/">Substack</a>
 <br>
-<a href="https://farcaster.xyz/netxork">Farcaster</a>
-<br>
-<a href="https://youtube.com/@netxork">YouTube</a>
-<br>
-<a href="https://instagram.com/netxork">Instagram</a>
+<a href="https://youtube.com/@network-foundation">YouTube</a>
 <br>
 
 <b><font size="4">Network Community</font></b>
@@ -35,7 +31,7 @@ Please feel free to browse through our channels:
 <br>
 <a href="https://network.flarum.cloud">Flarum</a>
 <br>
-<a href="https://reddit.com/r/netxork">Reddit</a>
+<a href="https://reddit.com/r/networkfoundation">Reddit</a>
 <br>
 
 
