@@ -13,7 +13,9 @@ layout: default
 [Network Research Forum](https://network.flarum.cloud)
 <br>
 <br>
-[Network Research Book](http://research.network.com.de/)
+[Mind Sciences Funds](https://www.notion.so/networkfoundation/210b521638de8045a9d6c5492fbcd140)
 <br>
 <br>
+
+
 
