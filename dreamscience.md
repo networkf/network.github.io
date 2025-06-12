@@ -13,5 +13,8 @@ layout: default
 <br>
 <br>
 [View List of Books Related to Dreams](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
+<br>
+<br>
+[View List of Dream Sciences Researchers](https://www.notion.so/networkfoundation/210b521638de8045a9d6c5492fbcd140)
 
 
