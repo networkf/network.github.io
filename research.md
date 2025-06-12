@@ -16,6 +16,8 @@ layout: default
 [Mind Sciences Funds](https://www.notion.so/networkfoundation/210b521638de8045a9d6c5492fbcd140)
 <br>
 <br>
-
+[Mind Sciences Funds](https://www.notion.so/networkfoundation/210b521638de80f6bb09ff157eeec6d7)
+<br>
+<br>
 
 
