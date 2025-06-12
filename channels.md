@@ -12,7 +12,7 @@ Please feel free to browse through our channels:
 
 <b><font size="4">Network Media</font></b>
 
-<a href="https://x.com/netw_ork">𝕏</a>
+<a href="https://x.com/Networkfdn">𝕏</a>
 <br>
 <a href="https://medium.com/@network">Medium Publication</a>
 <br>
@@ -30,6 +30,8 @@ Please feel free to browse through our channels:
 <a href="https://x.com/i/communities/1725849980240384096">X Community</a>
 <br>
 <a href="https://www.notion.so/networkfoundation/210b521638de80c8a1ccec5b52f7d82c">Events Spreadsheet</a>
+<br>
+<a href="https://lu.ma/user/net_work">Luma Calendar</a>
 <br>
 <a href="https://network.flarum.cloud">Flarum Forum</a>
 <br>
