@@ -13,5 +13,3 @@ layout: default
 [Network Research Forum](https://network.flarum.cloud)
 <br>
 <br>
-[Network Research Spreadsheets](https://research.network.com.de)
-<br>
