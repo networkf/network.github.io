@@ -15,3 +15,4 @@ layout: default
 [View List of Books Related to Dreams](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
 <br>
 <br>
+[A Study of Dreams by van Eeden](/dreamsvaneeden)
