@@ -27,6 +27,9 @@ layout: default
 [View List of Dream Exploration Tools](https://www.notion.so/networkfoundation/21cb521638de806c9f30df6ac9c082ed)
 <br>
 <br>
+[Watch Dream Related Lectures](https://www.youtube.com/playlist?list=PL3IOQtA2di8PJUDfBexo9nF_IE-Zi6KLH)
+<br>
+<br>
 [International Association for the Study of Dreams Booklist](https://www.asdreams.org/books-a-z/)
 <br>
 <br>
