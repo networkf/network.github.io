@@ -21,7 +21,7 @@ layout: default
 [View List of Groups Involved with Dream Sciences / Technology](https://www.notion.so/networkfoundation/210b521638de80f6bb09ff157eeec6d7)
 <br>
 <br>
-[View List of Groups Involved with Dream Sciences Researchers](https://www.notion.so/networkfoundation/21cb521638de805bba3ace052ca8932c)
+[View List of Dream Sciences Researchers](https://www.notion.so/networkfoundation/21cb521638de805bba3ace052ca8932c)
 <br>
 <br>
 [View List of Dream Exploration Tools](https://www.notion.so/networkfoundation/21cb521638de806c9f30df6ac9c082ed)
