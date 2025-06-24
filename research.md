@@ -7,17 +7,10 @@ layout: default
 ---
 <b><font size="5">Network Research</font></b>
 
-[Dream Science](/dreamscience)
+[Dream Science Research](/dreamscience)
 <br>
 <br>
 [Network Research Forum](https://network.flarum.cloud)
 <br>
 <br>
-[Mind Sciences Funds](https://www.notion.so/networkfoundation/210b521638de8045a9d6c5492fbcd140)
-<br>
-<br>
-[Mind Sciences Groups](https://www.notion.so/networkfoundation/210b521638de80f6bb09ff157eeec6d7)
-<br>
-<br>
-
 
