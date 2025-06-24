@@ -21,6 +21,9 @@ layout: default
 [View List of Groups Involved with Dream Sciences / Technology](https://www.notion.so/networkfoundation/210b521638de80f6bb09ff157eeec6d7)
 <br>
 <br>
+[View List of Dream Exploration Tools](https://www.notion.so/networkfoundation/21cb521638de806c9f30df6ac9c082ed)
+<br>
+<br>
 [International Association for the Study of Dreams Booklist](https://www.asdreams.org/books-a-z/)
 <br>
 <br>
