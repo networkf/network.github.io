@@ -10,9 +10,9 @@ layout: default
 <br>
 <br>
 
-[View Latest Pitch Deck](/deck)
-
 [Read Network Whitepaper](https://network.foundation/network.pdf)
+
+[Read Network Thesis](/thesis)
 
 [View Network Website](https://x.network.foundation)
 
