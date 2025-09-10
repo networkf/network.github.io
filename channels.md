@@ -23,11 +23,7 @@ Please feel free to browse through our channels:
 
 <b><font size="4">Network Community</font></b>
 
-<a href="https://t.me/networkfoundation">Telegram Group</a>
-<br>
-<a href="https://discord.gg/sCtK6YK">Discord Server</a>
-<br>
-<a href="https://x.com/i/communities/1725849980240384096">X Community</a>
+<a href="https://t.me/networkfoundation">Telegram</a>
 <br>
 <a href="https://www.notion.so/networkfoundation/210b521638de80c8a1ccec5b52f7d82c">Events Calendar</a>
 <br>
