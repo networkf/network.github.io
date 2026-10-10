@@ -6,42 +6,6 @@ layout: default
 </head>
 ---
 
-[About](/about)
-<br>
-Network.
-
-[Channels](/channels)
-<br>
-Media.
-
-[Explorations](/explorations)
-<br>
-Developments.
-
-[Governance](/gov)
-<br>
-Structure.
-
-[Nodes](/nodes)
-<br>
-Ecosystem.
-
-[Notes](/notes)
-<br>
-Updates.
-
-[Research](/research)
-<br>
-Projects.
-
-[Stakeholder](/stakeholders)
-<br>
-Dashboard.
-
-<b><font size="5">Prototypes</font></b>
-<br>
-<br>
-
 <small>September 2026</small><br>
 [Netxork v0.7: Artifact Marketplace](/netxork07)
 <br>
