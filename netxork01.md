@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Netxork v0.1: Fragments, Feed & Nodes</font></b>
+<b><font size="5">Network v0.1: Fragments, Feed & Nodes</font></b>
 <br>
 <br>
 <small>January 2026</small>

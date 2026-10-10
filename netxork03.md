@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Netxork v0.3: Read Receipts & Public/Private Fragments</font></b>
+<b><font size="5">Network v0.3: Read Receipts & Public/Private Fragments</font></b>
 <br>
 <br>
 <small>March 2026</small>

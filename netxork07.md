@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Netxork v0.7: Artifact Marketplace</font></b>
+<b><font size="5">Network v0.7: Artifact Marketplace</font></b>
 <br>
 <br>
 <small>September 2026</small>

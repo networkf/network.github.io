@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Netxork v0.5: Journeys</font></b>
+<b><font size="5">Network v0.5: Journeys</font></b>
 <br>
 <br>
 <small>July 2026</small>
