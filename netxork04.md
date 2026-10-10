@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Netxork v0.4: Circles</font></b>
+<b><font size="5">Network v0.4: Circles</font></b>
 <br>
 <br>
 <small>June 2026</small>

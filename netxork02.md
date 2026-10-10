@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<b><font size="5">Netxork v0.2: Agents, Echoes & Network+</font></b>
+<b><font size="5">Network v0.2: Agents, Echoes & Network+</font></b>
 <br>
 <br>
 <small>February 2026</small>
