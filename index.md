@@ -6,6 +6,10 @@ layout: default
 </head>
 ---
 
+<small>October 2026</small><br>
+[Network v0.8: Feeling Box & Mind Tools](/network08)
+<br>
+
 <small>September 2026</small><br>
 [Network v0.7: Artifact Marketplace](/network07)
 <br>
