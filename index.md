@@ -11,6 +11,14 @@ layout: default
 <br>
 
 <small>October 2026</small><br>
+[Network v1.0: Nexus & Wire](/network10)
+<br>
+
+<small>October 2026</small><br>
+[Network v0.9: Artifacts & Sharing](/network09)
+<br>
+
+<small>October 2026</small><br>
 [Network v0.8: Feeling Box & Mind Tools](/network08)
 <br>
 
