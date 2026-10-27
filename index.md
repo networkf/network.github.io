@@ -6,6 +6,10 @@ layout: default
 </head>
 ---
 
+<small>Mirror</small><br>
+[Network's First 10 Practices](/2026/10/27/first-10-practices.html)
+<br>
+
 <small>October 2026</small><br>
 [Network v0.8: Feeling Box & Mind Tools](/network08)
 <br>
@@ -37,10 +41,3 @@ layout: default
 <small>January 2026</small><br>
 [Network v0.1: Fragments, Feed & Nodes](/network01)
 <br>
-
-
-
-
-
-
-
