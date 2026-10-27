@@ -49,7 +49,7 @@ artifacts:
     cover: https://res.cloudinary.com/diukoe9zs/image/upload/w_800,q_auto,f_auto/v1792090717/artifact_2016f572-a582-4e03-b043-97ee925406e9_e64c8f14-cd13-5e89-ac74-20e885f78a6c_cover.png?v=1792090708
 ---
 
-# Network's First 10 Practices
+## Network's First 10 Practices
 
 ## 3-Minute Box Breath
 
