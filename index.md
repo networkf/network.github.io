@@ -6,7 +6,7 @@ layout: default
 </head>
 ---
 
-<small>Mirror</small><br>
+<small>October 27, 2026</small><br>
 [Network's First 10 Practices](/2026/10/27/first-10-practices.html)
 <br>
 
